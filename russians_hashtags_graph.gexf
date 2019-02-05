@@ -1,0 +1,1541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="count" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>05/02/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="STOPNazi" label="STOPNazi">
+        <attvalues>
+          <attvalue for="0" value="2257" />
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="17870" />
+        </attvalues>
+      </node>
+      <node id="Merkel" label="Merkel">
+        <attvalues>
+          <attvalue for="0" value="2768" />
+        </attvalues>
+      </node>
+      <node id="Flüchtlinge" label="Flüchtlinge">
+        <attvalues>
+          <attvalue for="0" value="1341" />
+        </attvalues>
+      </node>
+      <node id="DeadHorse" label="DeadHorse">
+        <attvalues>
+          <attvalue for="0" value="2591" />
+        </attvalues>
+      </node>
+      <node id="RedNationRising" label="RedNationRising">
+        <attvalues>
+          <attvalue for="0" value="1650" />
+        </attvalues>
+      </node>
+      <node id="Cleveland" label="Cleveland">
+        <attvalues>
+          <attvalue for="0" value="5867" />
+        </attvalues>
+      </node>
+      <node id="news" label="news">
+        <attvalues>
+          <attvalue for="0" value="247465" />
+        </attvalues>
+      </node>
+      <node id="local" label="local">
+        <attvalues>
+          <attvalue for="0" value="54726" />
+        </attvalues>
+      </node>
+      <node id="politics" label="politics">
+        <attvalues>
+          <attvalue for="0" value="77509" />
+        </attvalues>
+      </node>
+      <node id="sports" label="sports">
+        <attvalues>
+          <attvalue for="0" value="99123" />
+        </attvalues>
+      </node>
+      <node id="crime" label="crime">
+        <attvalues>
+          <attvalue for="0" value="8710" />
+        </attvalues>
+      </node>
+      <node id="MyEmmyNominationWouldBe" label="MyEmmyNominationWouldBe">
+        <attvalues>
+          <attvalue for="0" value="1993" />
+        </attvalues>
+      </node>
+      <node id="BetterAlternativeToDebates" label="BetterAlternativeToDebates">
+        <attvalues>
+          <attvalue for="0" value="2161" />
+        </attvalues>
+      </node>
+      <node id="AlternativeAcronymInterpretations" label="AlternativeAcronymInterpretations">
+        <attvalues>
+          <attvalue for="0" value="2742" />
+        </attvalues>
+      </node>
+      <node id="love" label="love">
+        <attvalues>
+          <attvalue for="0" value="20022" />
+        </attvalues>
+      </node>
+      <node id="rap" label="rap">
+        <attvalues>
+          <attvalue for="0" value="8898" />
+        </attvalues>
+      </node>
+      <node id="Trump" label="Trump">
+        <attvalues>
+          <attvalue for="0" value="6851" />
+        </attvalues>
+      </node>
+      <node id="NeverHillary" label="NeverHillary">
+        <attvalues>
+          <attvalue for="0" value="1882" />
+        </attvalues>
+      </node>
+      <node id="ChristmasAftermath" label="ChristmasAftermath">
+        <attvalues>
+          <attvalue for="0" value="2162" />
+        </attvalues>
+      </node>
+      <node id="GiftIdeasForPoliticians" label="GiftIdeasForPoliticians">
+        <attvalues>
+          <attvalue for="0" value="2541" />
+        </attvalues>
+      </node>
+      <node id="ProbableTrumpsTweets" label="ProbableTrumpsTweets">
+        <attvalues>
+          <attvalue for="0" value="1615" />
+        </attvalues>
+      </node>
+      <node id="MakeMeHateYouInOnePhrase" label="MakeMeHateYouInOnePhrase">
+        <attvalues>
+          <attvalue for="0" value="1411" />
+        </attvalues>
+      </node>
+      <node id="ItsRiskyTo" label="ItsRiskyTo">
+        <attvalues>
+          <attvalue for="0" value="1699" />
+        </attvalues>
+      </node>
+      <node id="ThingsThatShouldBeCensored" label="ThingsThatShouldBeCensored">
+        <attvalues>
+          <attvalue for="0" value="2197" />
+        </attvalues>
+      </node>
+      <node id="TheFirst100DaysToDoList" label="TheFirst100DaysToDoList">
+        <attvalues>
+          <attvalue for="0" value="1362" />
+        </attvalues>
+      </node>
+      <node id="FukushimaAgain" label="FukushimaAgain">
+        <attvalues>
+          <attvalue for="0" value="9343" />
+        </attvalues>
+      </node>
+      <node id="Chernobyl2015" label="Chernobyl2015">
+        <attvalues>
+          <attvalue for="0" value="4143" />
+        </attvalues>
+      </node>
+      <node id="games" label="games">
+        <attvalues>
+          <attvalue for="0" value="5469" />
+        </attvalues>
+      </node>
+      <node id="BuildTheWall" label="BuildTheWall">
+        <attvalues>
+          <attvalue for="0" value="3350" />
+        </attvalues>
+      </node>
+      <node id="TrumpTrain" label="TrumpTrain">
+        <attvalues>
+          <attvalue for="0" value="3690" />
+        </attvalues>
+      </node>
+      <node id="MAGA" label="MAGA">
+        <attvalues>
+          <attvalue for="0" value="29200" />
+        </attvalues>
+      </node>
+      <node id="breaking" label="breaking">
+        <attvalues>
+          <attvalue for="0" value="17772" />
+        </attvalues>
+      </node>
+      <node id="Fukushima2015" label="Fukushima2015">
+        <attvalues>
+          <attvalue for="0" value="11747" />
+        </attvalues>
+      </node>
+      <node id="Vault7" label="Vault7">
+        <attvalues>
+          <attvalue for="0" value="2060" />
+        </attvalues>
+      </node>
+      <node id="FireRyan" label="FireRyan">
+        <attvalues>
+          <attvalue for="0" value="1591" />
+        </attvalues>
+      </node>
+      <node id="FAKENEWS" label="FAKENEWS">
+        <attvalues>
+          <attvalue for="0" value="4382" />
+        </attvalues>
+      </node>
+      <node id="Obama" label="Obama">
+        <attvalues>
+          <attvalue for="0" value="3453" />
+        </attvalues>
+      </node>
+      <node id="ObamaGate" label="ObamaGate">
+        <attvalues>
+          <attvalue for="0" value="3732" />
+        </attvalues>
+      </node>
+      <node id="Wiretap" label="Wiretap">
+        <attvalues>
+          <attvalue for="0" value="1674" />
+        </attvalues>
+      </node>
+      <node id="ARRESTObama" label="ARRESTObama">
+        <attvalues>
+          <attvalue for="0" value="4514" />
+        </attvalues>
+      </node>
+      <node id="America" label="America">
+        <attvalues>
+          <attvalue for="0" value="6111" />
+        </attvalues>
+      </node>
+      <node id="AmericaFirst" label="AmericaFirst">
+        <attvalues>
+          <attvalue for="0" value="7286" />
+        </attvalues>
+      </node>
+      <node id="MakeAmericaGreatAgain" label="MakeAmericaGreatAgain">
+        <attvalues>
+          <attvalue for="0" value="3825" />
+        </attvalues>
+      </node>
+      <node id="maga" label="maga">
+        <attvalues>
+          <attvalue for="0" value="2119" />
+        </attvalues>
+      </node>
+      <node id="TCOT" label="TCOT">
+        <attvalues>
+          <attvalue for="0" value="3616" />
+        </attvalues>
+      </node>
+      <node id="CrookedHillary" label="CrookedHillary">
+        <attvalues>
+          <attvalue for="0" value="1554" />
+        </attvalues>
+      </node>
+      <node id="ANTIFA" label="ANTIFA">
+        <attvalues>
+          <attvalue for="0" value="1732" />
+        </attvalues>
+      </node>
+      <node id="Nukraine" label="Nukraine">
+        <attvalues>
+          <attvalue for="0" value="5004" />
+        </attvalues>
+      </node>
+      <node id="imho" label="imho">
+        <attvalues>
+          <attvalue for="0" value="4865" />
+        </attvalues>
+      </node>
+      <node id="RT" label="RT">
+        <attvalues>
+          <attvalue for="0" value="4627" />
+        </attvalues>
+      </node>
+      <node id="USFA" label="USFA">
+        <attvalues>
+          <attvalue for="0" value="1824" />
+        </attvalues>
+      </node>
+      <node id="ColumbianChemicals" label="ColumbianChemicals">
+        <attvalues>
+          <attvalue for="0" value="7729" />
+        </attvalues>
+      </node>
+      <node id="KochFarms" label="KochFarms">
+        <attvalues>
+          <attvalue for="0" value="3329" />
+        </attvalues>
+      </node>
+      <node id="TopNews" label="TopNews">
+        <attvalues>
+          <attvalue for="0" value="16564" />
+        </attvalues>
+      </node>
+      <node id="world" label="world">
+        <attvalues>
+          <attvalue for="0" value="29335" />
+        </attvalues>
+      </node>
+      <node id="RealLifeMagicSpells" label="RealLifeMagicSpells">
+        <attvalues>
+          <attvalue for="0" value="1389" />
+        </attvalues>
+      </node>
+      <node id="IHatePokemonGoBecause" label="IHatePokemonGoBecause">
+        <attvalues>
+          <attvalue for="0" value="3000" />
+        </attvalues>
+      </node>
+      <node id="HollywoodUndead" label="HollywoodUndead">
+        <attvalues>
+          <attvalue for="0" value="1753" />
+        </attvalues>
+      </node>
+      <node id="entertainment" label="entertainment">
+        <attvalues>
+          <attvalue for="0" value="9472" />
+        </attvalues>
+      </node>
+      <node id="News" label="News">
+        <attvalues>
+          <attvalue for="0" value="3174" />
+        </attvalues>
+      </node>
+      <node id="US" label="US">
+        <attvalues>
+          <attvalue for="0" value="2644" />
+        </attvalues>
+      </node>
+      <node id="quote" label="quote">
+        <attvalues>
+          <attvalue for="0" value="11207" />
+        </attvalues>
+      </node>
+      <node id="true" label="true">
+        <attvalues>
+          <attvalue for="0" value="14012" />
+        </attvalues>
+      </node>
+      <node id="UkrainianLie" label="UkrainianLie">
+        <attvalues>
+          <attvalue for="0" value="4380" />
+        </attvalues>
+      </node>
+      <node id="CCOT" label="CCOT">
+        <attvalues>
+          <attvalue for="0" value="2028" />
+        </attvalues>
+      </node>
+      <node id="PJNET" label="PJNET">
+        <attvalues>
+          <attvalue for="0" value="8670" />
+        </attvalues>
+      </node>
+      <node id="WakeUpAmerica" label="WakeUpAmerica">
+        <attvalues>
+          <attvalue for="0" value="4285" />
+        </attvalues>
+      </node>
+      <node id="PoliceBrutality" label="PoliceBrutality">
+        <attvalues>
+          <attvalue for="0" value="2632" />
+        </attvalues>
+      </node>
+      <node id="God" label="God">
+        <attvalues>
+          <attvalue for="0" value="1814" />
+        </attvalues>
+      </node>
+      <node id="FakeNews" label="FakeNews">
+        <attvalues>
+          <attvalue for="0" value="2242" />
+        </attvalues>
+      </node>
+      <node id="LavrovBeStrong" label="LavrovBeStrong">
+        <attvalues>
+          <attvalue for="0" value="5518" />
+        </attvalues>
+      </node>
+      <node id="art" label="art">
+        <attvalues>
+          <attvalue for="0" value="2238" />
+        </attvalues>
+      </node>
+      <node id="DemnDebate" label="DemnDebate">
+        <attvalues>
+          <attvalue for="0" value="1836" />
+        </attvalues>
+      </node>
+      <node id="DemDebate" label="DemDebate">
+        <attvalues>
+          <attvalue for="0" value="1619" />
+        </attvalues>
+      </node>
+      <node id="USDA" label="USDA">
+        <attvalues>
+          <attvalue for="0" value="1394" />
+        </attvalues>
+      </node>
+      <node id="IAmOnFire" label="IAmOnFire">
+        <attvalues>
+          <attvalue for="0" value="1317" />
+        </attvalues>
+      </node>
+      <node id="IfICouldntLie" label="IfICouldntLie">
+        <attvalues>
+          <attvalue for="0" value="1573" />
+        </attvalues>
+      </node>
+      <node id="SometimesItsOkTo" label="SometimesItsOkTo">
+        <attvalues>
+          <attvalue for="0" value="1332" />
+        </attvalues>
+      </node>
+      <node id="ToDoListBeforeChristmas" label="ToDoListBeforeChristmas">
+        <attvalues>
+          <attvalue for="0" value="3786" />
+        </attvalues>
+      </node>
+      <node id="PartyWentWrongWhen" label="PartyWentWrongWhen">
+        <attvalues>
+          <attvalue for="0" value="1498" />
+        </attvalues>
+      </node>
+      <node id="Chicago" label="Chicago">
+        <attvalues>
+          <attvalue for="0" value="23743" />
+        </attvalues>
+      </node>
+      <node id="NYC" label="NYC">
+        <attvalues>
+          <attvalue for="0" value="1579" />
+        </attvalues>
+      </node>
+      <node id="health" label="health">
+        <attvalues>
+          <attvalue for="0" value="22379" />
+        </attvalues>
+      </node>
+      <node id="Trump2016" label="Trump2016">
+        <attvalues>
+          <attvalue for="0" value="2285" />
+        </attvalues>
+      </node>
+      <node id="tcot" label="tcot">
+        <attvalues>
+          <attvalue for="0" value="10602" />
+        </attvalues>
+      </node>
+      <node id="business" label="business">
+        <attvalues>
+          <attvalue for="0" value="27161" />
+        </attvalues>
+      </node>
+      <node id="Texas" label="Texas">
+        <attvalues>
+          <attvalue for="0" value="13179" />
+        </attvalues>
+      </node>
+      <node id="DrainTheSwamp" label="DrainTheSwamp">
+        <attvalues>
+          <attvalue for="0" value="2065" />
+        </attvalues>
+      </node>
+      <node id="OscarHasNoColor" label="OscarHasNoColor">
+        <attvalues>
+          <attvalue for="0" value="1520" />
+        </attvalues>
+      </node>
+      <node id="TRUMP" label="TRUMP">
+        <attvalues>
+          <attvalue for="0" value="1719" />
+        </attvalues>
+      </node>
+      <node id="RuinADinnerInOnePhrase" label="RuinADinnerInOnePhrase">
+        <attvalues>
+          <attvalue for="0" value="1767" />
+        </attvalues>
+      </node>
+      <node id="SomeoneWhoKillsChildren" label="SomeoneWhoKillsChildren">
+        <attvalues>
+          <attvalue for="0" value="2404" />
+        </attvalues>
+      </node>
+      <node id="NoDAPL" label="NoDAPL">
+        <attvalues>
+          <attvalue for="0" value="1355" />
+        </attvalues>
+      </node>
+      <node id="2016In4Words" label="2016In4Words">
+        <attvalues>
+          <attvalue for="0" value="2895" />
+        </attvalues>
+      </node>
+      <node id="SecondhandGifts" label="SecondhandGifts">
+        <attvalues>
+          <attvalue for="0" value="1914" />
+        </attvalues>
+      </node>
+      <node id="SextingWentWrongWhen" label="SextingWentWrongWhen">
+        <attvalues>
+          <attvalue for="0" value="1643" />
+        </attvalues>
+      </node>
+      <node id="Russia" label="Russia">
+        <attvalues>
+          <attvalue for="0" value="2575" />
+        </attvalues>
+      </node>
+      <node id="WELOVEYOUTOONIALL" label="WELOVEYOUTOONIALL">
+        <attvalues>
+          <attvalue for="0" value="1382" />
+        </attvalues>
+      </node>
+      <node id="tech" label="tech">
+        <attvalues>
+          <attvalue for="0" value="10795" />
+        </attvalues>
+      </node>
+      <node id="environment" label="environment">
+        <attvalues>
+          <attvalue for="0" value="5852" />
+        </attvalues>
+      </node>
+      <node id="life" label="life">
+        <attvalues>
+          <attvalue for="0" value="5011" />
+        </attvalues>
+      </node>
+      <node id="MustBeBanned" label="MustBeBanned">
+        <attvalues>
+          <attvalue for="0" value="3094" />
+        </attvalues>
+      </node>
+      <node id="BlackLivesMatter" label="BlackLivesMatter">
+        <attvalues>
+          <attvalue for="0" value="14919" />
+        </attvalues>
+      </node>
+      <node id="hockey" label="hockey">
+        <attvalues>
+          <attvalue for="0" value="3213" />
+        </attvalues>
+      </node>
+      <node id="baseball" label="baseball">
+        <attvalues>
+          <attvalue for="0" value="5023" />
+        </attvalues>
+      </node>
+      <node id="StopIslam" label="StopIslam">
+        <attvalues>
+          <attvalue for="0" value="1652" />
+        </attvalues>
+      </node>
+      <node id="HillaryClinton" label="HillaryClinton">
+        <attvalues>
+          <attvalue for="0" value="1433" />
+        </attvalues>
+      </node>
+      <node id="iHQ" label="iHQ">
+        <attvalues>
+          <attvalue for="0" value="2430" />
+        </attvalues>
+      </node>
+      <node id="RAP" label="RAP">
+        <attvalues>
+          <attvalue for="0" value="3344" />
+        </attvalues>
+      </node>
+      <node id="top" label="top">
+        <attvalues>
+          <attvalue for="0" value="8291" />
+        </attvalues>
+      </node>
+      <node id="mar" label="mar">
+        <attvalues>
+          <attvalue for="0" value="4869" />
+        </attvalues>
+      </node>
+      <node id="IdRunForPresidentIf" label="IdRunForPresidentIf">
+        <attvalues>
+          <attvalue for="0" value="1642" />
+        </attvalues>
+      </node>
+      <node id="POTUS" label="POTUS">
+        <attvalues>
+          <attvalue for="0" value="1316" />
+        </attvalues>
+      </node>
+      <node id="celebs" label="celebs">
+        <attvalues>
+          <attvalue for="0" value="4405" />
+        </attvalues>
+      </node>
+      <node id="BlackSkinIsNotACrime" label="BlackSkinIsNotACrime">
+        <attvalues>
+          <attvalue for="0" value="1773" />
+        </attvalues>
+      </node>
+      <node id="HowToLoseYourJob" label="HowToLoseYourJob">
+        <attvalues>
+          <attvalue for="0" value="1714" />
+        </attvalues>
+      </node>
+      <node id="2A" label="2A">
+        <attvalues>
+          <attvalue for="0" value="3884" />
+        </attvalues>
+      </node>
+      <node id="Prayers4California" label="Prayers4California">
+        <attvalues>
+          <attvalue for="0" value="1387" />
+        </attvalues>
+      </node>
+      <node id="p2" label="p2">
+        <attvalues>
+          <attvalue for="0" value="2064" />
+        </attvalues>
+      </node>
+      <node id="ThingsMoreTrustedThanHillary" label="ThingsMoreTrustedThanHillary">
+        <attvalues>
+          <attvalue for="0" value="2015" />
+        </attvalues>
+      </node>
+      <node id="phosphorusdisaster" label="phosphorusdisaster">
+        <attvalues>
+          <attvalue for="0" value="2663" />
+        </attvalues>
+      </node>
+      <node id="IHate" label="IHate">
+        <attvalues>
+          <attvalue for="0" value="1698" />
+        </attvalues>
+      </node>
+      <node id="usa" label="usa">
+        <attvalues>
+          <attvalue for="0" value="1871" />
+        </attvalues>
+      </node>
+      <node id="MadeInRussia" label="MadeInRussia">
+        <attvalues>
+          <attvalue for="0" value="3057" />
+        </attvalues>
+      </node>
+      <node id="NewYork" label="NewYork">
+        <attvalues>
+          <attvalue for="0" value="12290" />
+        </attvalues>
+      </node>
+      <node id="7K9268" label="7K9268">
+        <attvalues>
+          <attvalue for="0" value="2048" />
+        </attvalues>
+      </node>
+      <node id="jud" label="jud">
+        <attvalues>
+          <attvalue for="0" value="1719" />
+        </attvalues>
+      </node>
+      <node id="ChildrenThinkThat" label="ChildrenThinkThat">
+        <attvalues>
+          <attvalue for="0" value="2033" />
+        </attvalues>
+      </node>
+      <node id="IGetDepressedWhen" label="IGetDepressedWhen">
+        <attvalues>
+          <attvalue for="0" value="2947" />
+        </attvalues>
+      </node>
+      <node id="ToAvoidWorkI" label="ToAvoidWorkI">
+        <attvalues>
+          <attvalue for="0" value="2315" />
+        </attvalues>
+      </node>
+      <node id="ISIS" label="ISIS">
+        <attvalues>
+          <attvalue for="0" value="6413" />
+        </attvalues>
+      </node>
+      <node id="pjnet" label="pjnet">
+        <attvalues>
+          <attvalue for="0" value="2214" />
+        </attvalues>
+      </node>
+      <node id="WhenIWasYoung" label="WhenIWasYoung">
+        <attvalues>
+          <attvalue for="0" value="1609" />
+        </attvalues>
+      </node>
+      <node id="DontTellAnyoneBut" label="DontTellAnyoneBut">
+        <attvalues>
+          <attvalue for="0" value="2455" />
+        </attvalues>
+      </node>
+      <node id="IStartCryingWhen" label="IStartCryingWhen">
+        <attvalues>
+          <attvalue for="0" value="2789" />
+        </attvalues>
+      </node>
+      <node id="MyOlympicSportWouldBe" label="MyOlympicSportWouldBe">
+        <attvalues>
+          <attvalue for="0" value="2234" />
+        </attvalues>
+      </node>
+      <node id="INeedALawyerBecause" label="INeedALawyerBecause">
+        <attvalues>
+          <attvalue for="0" value="1848" />
+        </attvalues>
+      </node>
+      <node id="science" label="science">
+        <attvalues>
+          <attvalue for="0" value="4144" />
+        </attvalues>
+      </node>
+      <node id="LA" label="LA">
+        <attvalues>
+          <attvalue for="0" value="3536" />
+        </attvalues>
+      </node>
+      <node id="TurkeyAggressor" label="TurkeyAggressor">
+        <attvalues>
+          <attvalue for="0" value="4352" />
+        </attvalues>
+      </node>
+      <node id="SanJose" label="SanJose">
+        <attvalues>
+          <attvalue for="0" value="8455" />
+        </attvalues>
+      </node>
+      <node id="imo" label="imo">
+        <attvalues>
+          <attvalue for="0" value="1584" />
+        </attvalues>
+      </node>
+      <node id="SusanRice" label="SusanRice">
+        <attvalues>
+          <attvalue for="0" value="2159" />
+        </attvalues>
+      </node>
+      <node id="JailObamaSpyRing" label="JailObamaSpyRing">
+        <attvalues>
+          <attvalue for="0" value="1309" />
+        </attvalues>
+      </node>
+      <node id="IslamKills" label="IslamKills">
+        <attvalues>
+          <attvalue for="0" value="3927" />
+        </attvalues>
+      </node>
+      <node id="Brussels" label="Brussels">
+        <attvalues>
+          <attvalue for="0" value="1991" />
+        </attvalues>
+      </node>
+      <node id="ccot" label="ccot">
+        <attvalues>
+          <attvalue for="0" value="2926" />
+        </attvalues>
+      </node>
+      <node id="BlackTwitter" label="BlackTwitter">
+        <attvalues>
+          <attvalue for="0" value="3653" />
+        </attvalues>
+      </node>
+      <node id="BLM" label="BLM">
+        <attvalues>
+          <attvalue for="0" value="2259" />
+        </attvalues>
+      </node>
+      <node id="TrumpsFavoriteHeadline" label="TrumpsFavoriteHeadline">
+        <attvalues>
+          <attvalue for="0" value="1332" />
+        </attvalues>
+      </node>
+      <node id="summer" label="summer">
+        <attvalues>
+          <attvalue for="0" value="1958" />
+        </attvalues>
+      </node>
+      <node id="StopTANK" label="StopTANK">
+        <attvalues>
+          <attvalue for="0" value="4437" />
+        </attvalues>
+      </node>
+      <node id="IS" label="IS">
+        <attvalues>
+          <attvalue for="0" value="2056" />
+        </attvalues>
+      </node>
+      <node id="IHaveADream" label="IHaveADream">
+        <attvalues>
+          <attvalue for="0" value="2225" />
+        </attvalues>
+      </node>
+      <node id="LifeWouldBeBetterIf" label="LifeWouldBeBetterIf">
+        <attvalues>
+          <attvalue for="0" value="1494" />
+        </attvalues>
+      </node>
+      <node id="SurvivalGuideToThanksgiving" label="SurvivalGuideToThanksgiving">
+        <attvalues>
+          <attvalue for="0" value="3252" />
+        </attvalues>
+      </node>
+      <node id="MariaMozhaiskayHappyNY" label="MariaMozhaiskayHappyNY">
+        <attvalues>
+          <attvalue for="0" value="3324" />
+        </attvalues>
+      </node>
+      <node id="EAEC" label="EAEC">
+        <attvalues>
+          <attvalue for="0" value="2253" />
+        </attvalues>
+      </node>
+      <node id="just" label="just">
+        <attvalues>
+          <attvalue for="0" value="1484" />
+        </attvalues>
+      </node>
+      <node id="ThingsYouCantIgnore" label="ThingsYouCantIgnore">
+        <attvalues>
+          <attvalue for="0" value="3367" />
+        </attvalues>
+      </node>
+      <node id="ReasonsToGetDivorced" label="ReasonsToGetDivorced">
+        <attvalues>
+          <attvalue for="0" value="1682" />
+        </attvalues>
+      </node>
+      <node id="FUKUSHIMA2015" label="FUKUSHIMA2015">
+        <attvalues>
+          <attvalue for="0" value="1565" />
+        </attvalues>
+      </node>
+      <node id="noticias" label="noticias">
+        <attvalues>
+          <attvalue for="0" value="2052" />
+        </attvalues>
+      </node>
+      <node id="ObamasWishList" label="ObamasWishList">
+        <attvalues>
+          <attvalue for="0" value="2196" />
+        </attvalues>
+      </node>
+      <node id="VegasGOPDebate" label="VegasGOPDebate">
+        <attvalues>
+          <attvalue for="0" value="1738" />
+        </attvalues>
+      </node>
+      <node id="quotes" label="quotes">
+        <attvalues>
+          <attvalue for="0" value="3159" />
+        </attvalues>
+      </node>
+      <node id="NowPlaying" label="NowPlaying">
+        <attvalues>
+          <attvalue for="0" value="5351" />
+        </attvalues>
+      </node>
+      <node id="BlackHistoryMonth" label="BlackHistoryMonth">
+        <attvalues>
+          <attvalue for="0" value="1649" />
+        </attvalues>
+      </node>
+      <node id="StayWoke" label="StayWoke">
+        <attvalues>
+          <attvalue for="0" value="1965" />
+        </attvalues>
+      </node>
+      <node id="Syria" label="Syria">
+        <attvalues>
+          <attvalue for="0" value="3749" />
+        </attvalues>
+      </node>
+      <node id="ILoveMyFriendsBut" label="ILoveMyFriendsBut">
+        <attvalues>
+          <attvalue for="0" value="1346" />
+        </attvalues>
+      </node>
+      <node id="feelings" label="feelings">
+        <attvalues>
+          <attvalue for="0" value="1581" />
+        </attvalues>
+      </node>
+      <node id="Iraq" label="Iraq">
+        <attvalues>
+          <attvalue for="0" value="1432" />
+        </attvalues>
+      </node>
+      <node id="SAA" label="SAA">
+        <attvalues>
+          <attvalue for="0" value="1370" />
+        </attvalues>
+      </node>
+      <node id="Sports" label="Sports">
+        <attvalues>
+          <attvalue for="0" value="2344" />
+        </attvalues>
+      </node>
+      <node id="music" label="music">
+        <attvalues>
+          <attvalue for="0" value="3345" />
+        </attvalues>
+      </node>
+      <node id="FeelTheBern" label="FeelTheBern">
+        <attvalues>
+          <attvalue for="0" value="1312" />
+        </attvalues>
+      </node>
+      <node id="MH17" label="MH17">
+        <attvalues>
+          <attvalue for="0" value="1434" />
+        </attvalues>
+      </node>
+      <node id="Erdogan" label="Erdogan">
+        <attvalues>
+          <attvalue for="0" value="1454" />
+        </attvalues>
+      </node>
+      <node id="AddPotInAMovie" label="AddPotInAMovie">
+        <attvalues>
+          <attvalue for="0" value="1467" />
+        </attvalues>
+      </node>
+      <node id="money" label="money">
+        <attvalues>
+          <attvalue for="0" value="5943" />
+        </attvalues>
+      </node>
+      <node id="AmericanPower" label="AmericanPower">
+        <attvalues>
+          <attvalue for="0" value="1796" />
+        </attvalues>
+      </node>
+      <node id="POTUSLastTweet" label="POTUSLastTweet">
+        <attvalues>
+          <attvalue for="0" value="1501" />
+        </attvalues>
+      </node>
+      <node id="RejectedDebateTopics" label="RejectedDebateTopics">
+        <attvalues>
+          <attvalue for="0" value="2391" />
+        </attvalues>
+      </node>
+      <node id="beautiful" label="beautiful">
+        <attvalues>
+          <attvalue for="0" value="1333" />
+        </attvalues>
+      </node>
+      <node id="RuOpen" label="RuOpen">
+        <attvalues>
+          <attvalue for="0" value="1961" />
+        </attvalues>
+      </node>
+      <node id="Wisconsin" label="Wisconsin">
+        <attvalues>
+          <attvalue for="0" value="2224" />
+        </attvalues>
+      </node>
+      <node id="MaterialEvidence" label="MaterialEvidence">
+        <attvalues>
+          <attvalue for="0" value="3150" />
+        </attvalues>
+      </node>
+      <node id="TrumpForPresident" label="TrumpForPresident">
+        <attvalues>
+          <attvalue for="0" value="2045" />
+        </attvalues>
+      </node>
+      <node id="PresentsTrumpGot" label="PresentsTrumpGot">
+        <attvalues>
+          <attvalue for="0" value="1373" />
+        </attvalues>
+      </node>
+      <node id="soundcloud" label="soundcloud">
+        <attvalues>
+          <attvalue for="0" value="1351" />
+        </attvalues>
+      </node>
+      <node id="showbiz" label="showbiz">
+        <attvalues>
+          <attvalue for="0" value="11137" />
+        </attvalues>
+      </node>
+      <node id="WakeUpWorldRussiaInvadedUkraine" label="WakeUpWorldRussiaInvadedUkraine">
+        <attvalues>
+          <attvalue for="0" value="1606" />
+        </attvalues>
+      </node>
+      <node id="events" label="events">
+        <attvalues>
+          <attvalue for="0" value="1320" />
+        </attvalues>
+      </node>
+      <node id="ReasonsToProtest" label="ReasonsToProtest">
+        <attvalues>
+          <attvalue for="0" value="1423" />
+        </attvalues>
+      </node>
+      <node id="hiphop" label="hiphop">
+        <attvalues>
+          <attvalue for="0" value="1332" />
+        </attvalues>
+      </node>
+      <node id="ObamaNextJob" label="ObamaNextJob">
+        <attvalues>
+          <attvalue for="0" value="2259" />
+        </attvalues>
+      </node>
+      <node id="newyork" label="newyork">
+        <attvalues>
+          <attvalue for="0" value="1581" />
+        </attvalues>
+      </node>
+      <node id="Atlanta" label="Atlanta">
+        <attvalues>
+          <attvalue for="0" value="2189" />
+        </attvalues>
+      </node>
+      <node id="amb" label="amb">
+        <attvalues>
+          <attvalue for="0" value="3142" />
+        </attvalues>
+      </node>
+      <node id="nowplaying" label="nowplaying">
+        <attvalues>
+          <attvalue for="0" value="1373" />
+        </attvalues>
+      </node>
+      <node id="GOPDebate" label="GOPDebate">
+        <attvalues>
+          <attvalue for="0" value="3058" />
+        </attvalues>
+      </node>
+      <node id="blacktwitter" label="blacktwitter">
+        <attvalues>
+          <attvalue for="0" value="1407" />
+        </attvalues>
+      </node>
+      <node id="sted" label="sted">
+        <attvalues>
+          <attvalue for="0" value="3504" />
+        </attvalues>
+      </node>
+      <node id="IfIHadABodyDouble" label="IfIHadABodyDouble">
+        <attvalues>
+          <attvalue for="0" value="1330" />
+        </attvalues>
+      </node>
+      <node id="Turkey" label="Turkey">
+        <attvalues>
+          <attvalue for="0" value="2465" />
+        </attvalues>
+      </node>
+      <node id="Baltimore" label="Baltimore">
+        <attvalues>
+          <attvalue for="0" value="3515" />
+        </attvalues>
+      </node>
+      <node id="Maryland" label="Maryland">
+        <attvalues>
+          <attvalue for="0" value="2099" />
+        </attvalues>
+      </node>
+      <node id="IHaveARightToKnow" label="IHaveARightToKnow">
+        <attvalues>
+          <attvalue for="0" value="1856" />
+        </attvalues>
+      </node>
+      <node id="blacklivesmatter" label="blacklivesmatter">
+        <attvalues>
+          <attvalue for="0" value="1840" />
+        </attvalues>
+      </node>
+      <node id="Hillary" label="Hillary">
+        <attvalues>
+          <attvalue for="0" value="1935" />
+        </attvalues>
+      </node>
+      <node id="ToFeelBetterI" label="ToFeelBetterI">
+        <attvalues>
+          <attvalue for="0" value="2304" />
+        </attvalues>
+      </node>
+      <node id="ValentinesDayIn3Words" label="ValentinesDayIn3Words">
+        <attvalues>
+          <attvalue for="0" value="2557" />
+        </attvalues>
+      </node>
+      <node id="IAMONFIRE" label="IAMONFIRE">
+        <attvalues>
+          <attvalue for="0" value="1309" />
+        </attvalues>
+      </node>
+      <node id="BlackToLive" label="BlackToLive">
+        <attvalues>
+          <attvalue for="0" value="1581" />
+        </attvalues>
+      </node>
+      <node id="Breaking" label="Breaking">
+        <attvalues>
+          <attvalue for="0" value="2374" />
+        </attvalues>
+      </node>
+      <node id="Aleppo" label="Aleppo">
+        <attvalues>
+          <attvalue for="0" value="1644" />
+        </attvalues>
+      </node>
+      <node id="th" label="th">
+        <attvalues>
+          <attvalue for="0" value="2240" />
+        </attvalues>
+      </node>
+      <node id="StopTheGOP" label="StopTheGOP">
+        <attvalues>
+          <attvalue for="0" value="1609" />
+        </attvalues>
+      </node>
+      <node id="FergusonRemembers" label="FergusonRemembers">
+        <attvalues>
+          <attvalue for="0" value="1660" />
+        </attvalues>
+      </node>
+      <node id="ThingsEveryBoyWantsToHear" label="ThingsEveryBoyWantsToHear">
+        <attvalues>
+          <attvalue for="0" value="1322" />
+        </attvalues>
+      </node>
+      <node id="SanDiego" label="SanDiego">
+        <attvalues>
+          <attvalue for="0" value="5040" />
+        </attvalues>
+      </node>
+      <node id="Local" label="Local">
+        <attvalues>
+          <attvalue for="0" value="1379" />
+        </attvalues>
+      </node>
+      <node id="topl" label="topl">
+        <attvalues>
+          <attvalue for="0" value="4619" />
+        </attvalues>
+      </node>
+      <node id="may" label="may">
+        <attvalues>
+          <attvalue for="0" value="2776" />
+        </attvalues>
+      </node>
+      <node id="blacktolive" label="blacktolive">
+        <attvalues>
+          <attvalue for="0" value="1539" />
+        </attvalues>
+      </node>
+      <node id="StLouis" label="StLouis">
+        <attvalues>
+          <attvalue for="0" value="4864" />
+        </attvalues>
+      </node>
+      <node id="vvmar" label="vvmar">
+        <attvalues>
+          <attvalue for="0" value="1398" />
+        </attvalues>
+      </node>
+      <node id="marv" label="marv">
+        <attvalues>
+          <attvalue for="0" value="1398" />
+        </attvalues>
+      </node>
+      <node id="Foke" label="Foke">
+        <attvalues>
+          <attvalue for="0" value="11176" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="STOPNazi" target="LavrovBeStrong" weight="0.37950730323791504" />
+      <edge id="1" source="STOPNazi" target="MariaMozhaiskayHappyNY" weight="0.36044877767562866" />
+      <edge id="2" source="STOPNazi" target="EAEC" weight="0.3744722008705139" />
+      <edge id="3" source="USA" target="usa" weight="0.0" />
+      <edge id="4" source="DeadHorse" target="ColumbianChemicals" weight="0.2697635293006897" />
+      <edge id="5" source="RedNationRising" target="TCOT" weight="0.34876543283462524" />
+      <edge id="6" source="RedNationRising" target="CCOT" weight="0.3694036602973938" />
+      <edge id="7" source="RedNationRising" target="tcot" weight="0.34876543283462524" />
+      <edge id="8" source="RedNationRising" target="ccot" weight="0.3694036602973938" />
+      <edge id="9" source="Cleveland" target="local" weight="0.38877689838409424" />
+      <edge id="10" source="Cleveland" target="Chicago" weight="0.33086395263671875" />
+      <edge id="11" source="Cleveland" target="Local" weight="0.38877689838409424" />
+      <edge id="12" source="news" target="News" weight="2.384185791015625e-07" />
+      <edge id="13" source="news" target="StLouis" weight="0.38566821813583374" />
+      <edge id="14" source="local" target="Chicago" weight="0.310646653175354" />
+      <edge id="15" source="local" target="business" weight="0.3797825574874878" />
+      <edge id="16" source="local" target="Texas" weight="0.365505576133728" />
+      <edge id="17" source="local" target="SanJose" weight="0.29252201318740845" />
+      <edge id="18" source="local" target="Wisconsin" weight="0.3526861071586609" />
+      <edge id="19" source="local" target="Maryland" weight="0.3339430093765259" />
+      <edge id="20" source="local" target="Local" weight="-1.1920928955078125e-07" />
+      <edge id="21" source="local" target="StLouis" weight="0.206531822681427" />
+      <edge id="22" source="politics" target="TopNews" weight="0.35973191261291504" />
+      <edge id="23" source="politics" target="StLouis" weight="0.3750804662704468" />
+      <edge id="24" source="sports" target="hockey" weight="0.28747302293777466" />
+      <edge id="25" source="sports" target="baseball" weight="0.25397318601608276" />
+      <edge id="26" source="sports" target="Sports" weight="-1.1920928955078125e-07" />
+      <edge id="27" source="sports" target="StLouis" weight="0.34859901666641235" />
+      <edge id="28" source="MyEmmyNominationWouldBe" target="IfICouldntLie" weight="0.39685988426208496" />
+      <edge id="29" source="BetterAlternativeToDebates" target="MyOlympicSportWouldBe" weight="0.32936394214630127" />
+      <edge id="30" source="rap" target="RAP" weight="5.960464477539063e-08" />
+      <edge id="31" source="Trump" target="Obama" weight="0.378889799118042" />
+      <edge id="32" source="Trump" target="TRUMP" weight="1.1920928955078125e-07" />
+      <edge id="33" source="Trump" target="Hillary" weight="0.38726192712783813" />
+      <edge id="34" source="NeverHillary" target="CrookedHillary" weight="0.18905729055404663" />
+      <edge id="35" source="NeverHillary" target="HillaryClinton" weight="0.232030987739563" />
+      <edge id="36" source="NeverHillary" target="FeelTheBern" weight="0.35263246297836304" />
+      <edge id="37" source="NeverHillary" target="TrumpForPresident" weight="0.28426921367645264" />
+      <edge id="38" source="NeverHillary" target="Hillary" weight="0.379547119140625" />
+      <edge id="39" source="ChristmasAftermath" target="ToDoListBeforeChristmas" weight="0.3253718614578247" />
+      <edge id="40" source="ChristmasAftermath" target="SurvivalGuideToThanksgiving" weight="0.3634527921676636" />
+      <edge id="41" source="GiftIdeasForPoliticians" target="SecondhandGifts" weight="0.38005757331848145" />
+      <edge id="42" source="GiftIdeasForPoliticians" target="IdRunForPresidentIf" weight="0.3327404856681824" />
+      <edge id="43" source="GiftIdeasForPoliticians" target="PresentsTrumpGot" weight="0.37555044889450073" />
+      <edge id="44" source="ProbableTrumpsTweets" target="IdRunForPresidentIf" weight="0.39250028133392334" />
+      <edge id="45" source="MakeMeHateYouInOnePhrase" target="ThingsThatShouldBeCensored" weight="0.38471275568008423" />
+      <edge id="46" source="MakeMeHateYouInOnePhrase" target="RealLifeMagicSpells" weight="0.3579552173614502" />
+      <edge id="47" source="MakeMeHateYouInOnePhrase" target="IfICouldntLie" weight="0.28949159383773804" />
+      <edge id="48" source="MakeMeHateYouInOnePhrase" target="SometimesItsOkTo" weight="0.33971625566482544" />
+      <edge id="49" source="MakeMeHateYouInOnePhrase" target="RuinADinnerInOnePhrase" weight="0.2766086459159851" />
+      <edge id="50" source="MakeMeHateYouInOnePhrase" target="MustBeBanned" weight="0.3491688370704651" />
+      <edge id="51" source="MakeMeHateYouInOnePhrase" target="IdRunForPresidentIf" weight="0.3065418601036072" />
+      <edge id="52" source="MakeMeHateYouInOnePhrase" target="ChildrenThinkThat" weight="0.2968639135360718" />
+      <edge id="53" source="MakeMeHateYouInOnePhrase" target="IGetDepressedWhen" weight="0.3839435577392578" />
+      <edge id="54" source="MakeMeHateYouInOnePhrase" target="WhenIWasYoung" weight="0.3181493282318115" />
+      <edge id="55" source="MakeMeHateYouInOnePhrase" target="DontTellAnyoneBut" weight="0.29559171199798584" />
+      <edge id="56" source="MakeMeHateYouInOnePhrase" target="IStartCryingWhen" weight="0.38790732622146606" />
+      <edge id="57" source="MakeMeHateYouInOnePhrase" target="INeedALawyerBecause" weight="0.3372744917869568" />
+      <edge id="58" source="MakeMeHateYouInOnePhrase" target="ReasonsToGetDivorced" weight="0.35023337602615356" />
+      <edge id="59" source="MakeMeHateYouInOnePhrase" target="ILoveMyFriendsBut" weight="0.33388638496398926" />
+      <edge id="60" source="MakeMeHateYouInOnePhrase" target="RejectedDebateTopics" weight="0.38001638650894165" />
+      <edge id="61" source="MakeMeHateYouInOnePhrase" target="IfIHadABodyDouble" weight="0.3542340397834778" />
+      <edge id="62" source="MakeMeHateYouInOnePhrase" target="IHaveARightToKnow" weight="0.2665511965751648" />
+      <edge id="63" source="MakeMeHateYouInOnePhrase" target="ThingsEveryBoyWantsToHear" weight="0.26252979040145874" />
+      <edge id="64" source="ItsRiskyTo" target="RealLifeMagicSpells" weight="0.38593775033950806" />
+      <edge id="65" source="ItsRiskyTo" target="IfICouldntLie" weight="0.34401804208755493" />
+      <edge id="66" source="ItsRiskyTo" target="SometimesItsOkTo" weight="0.2849249243736267" />
+      <edge id="67" source="ItsRiskyTo" target="IdRunForPresidentIf" weight="0.36285996437072754" />
+      <edge id="68" source="ItsRiskyTo" target="IGetDepressedWhen" weight="0.3846275210380554" />
+      <edge id="69" source="ItsRiskyTo" target="ToAvoidWorkI" weight="0.3577643036842346" />
+      <edge id="70" source="ItsRiskyTo" target="DontTellAnyoneBut" weight="0.378617525100708" />
+      <edge id="71" source="ItsRiskyTo" target="MyOlympicSportWouldBe" weight="0.35170698165893555" />
+      <edge id="72" source="ItsRiskyTo" target="INeedALawyerBecause" weight="0.34959596395492554" />
+      <edge id="73" source="ItsRiskyTo" target="ThingsYouCantIgnore" weight="0.3943149447441101" />
+      <edge id="74" source="ItsRiskyTo" target="ReasonsToGetDivorced" weight="0.3324422836303711" />
+      <edge id="75" source="ItsRiskyTo" target="ThingsEveryBoyWantsToHear" weight="0.387129008769989" />
+      <edge id="76" source="ThingsThatShouldBeCensored" target="MustBeBanned" weight="0.3041499853134155" />
+      <edge id="77" source="FukushimaAgain" target="Nukraine" weight="0.08847081661224365" />
+      <edge id="78" source="BuildTheWall" target="FireRyan" weight="0.2903541326522827" />
+      <edge id="79" source="BuildTheWall" target="AmericaFirst" weight="0.3341218829154968" />
+      <edge id="80" source="TrumpTrain" target="MAGA" weight="0.3272634744644165" />
+      <edge id="81" source="TrumpTrain" target="maga" weight="0.3272634744644165" />
+      <edge id="82" source="TrumpTrain" target="DrainTheSwamp" weight="0.32532763481140137" />
+      <edge id="83" source="MAGA" target="MakeAmericaGreatAgain" weight="0.3440847396850586" />
+      <edge id="84" source="MAGA" target="maga" weight="-1.1920928955078125e-07" />
+      <edge id="85" source="MAGA" target="DrainTheSwamp" weight="0.37715697288513184" />
+      <edge id="86" source="breaking" target="Breaking" weight="5.960464477539063e-08" />
+      <edge id="87" source="FireRyan" target="AmericaFirst" weight="0.3981896638870239" />
+      <edge id="88" source="FAKENEWS" target="FakeNews" weight="-1.1920928955078125e-07" />
+      <edge id="89" source="Obama" target="TRUMP" weight="0.3788897395133972" />
+      <edge id="90" source="ObamaGate" target="Wiretap" weight="0.3850860595703125" />
+      <edge id="91" source="ObamaGate" target="ARRESTObama" weight="0.3649083375930786" />
+      <edge id="92" source="ObamaGate" target="SusanRice" weight="0.25854772329330444" />
+      <edge id="93" source="MakeAmericaGreatAgain" target="maga" weight="0.3440847396850586" />
+      <edge id="94" source="MakeAmericaGreatAgain" target="TrumpForPresident" weight="0.33216631412506104" />
+      <edge id="95" source="maga" target="DrainTheSwamp" weight="0.37715697288513184" />
+      <edge id="96" source="TCOT" target="CCOT" weight="0.29373645782470703" />
+      <edge id="97" source="TCOT" target="PJNET" weight="0.2896612882614136" />
+      <edge id="98" source="TCOT" target="WakeUpAmerica" weight="0.2687176465988159" />
+      <edge id="99" source="TCOT" target="tcot" weight="0.0" />
+      <edge id="100" source="TCOT" target="pjnet" weight="0.2896612882614136" />
+      <edge id="101" source="TCOT" target="ccot" weight="0.29373645782470703" />
+      <edge id="102" source="CrookedHillary" target="HillaryClinton" weight="0.18022149801254272" />
+      <edge id="103" source="CrookedHillary" target="TrumpForPresident" weight="0.38500356674194336" />
+      <edge id="104" source="CrookedHillary" target="Hillary" weight="0.2602531313896179" />
+      <edge id="105" source="KochFarms" target="USDA" weight="0.2630673050880432" />
+      <edge id="106" source="TopNews" target="StLouis" weight="0.391082227230072" />
+      <edge id="107" source="RealLifeMagicSpells" target="IfICouldntLie" weight="0.352965772151947" />
+      <edge id="108" source="RealLifeMagicSpells" target="SometimesItsOkTo" weight="0.31657207012176514" />
+      <edge id="109" source="RealLifeMagicSpells" target="MustBeBanned" weight="0.3997914791107178" />
+      <edge id="110" source="RealLifeMagicSpells" target="IdRunForPresidentIf" weight="0.3483700752258301" />
+      <edge id="111" source="RealLifeMagicSpells" target="HowToLoseYourJob" weight="0.38365209102630615" />
+      <edge id="112" source="RealLifeMagicSpells" target="IGetDepressedWhen" weight="0.32046884298324585" />
+      <edge id="113" source="RealLifeMagicSpells" target="ToAvoidWorkI" weight="0.34684181213378906" />
+      <edge id="114" source="RealLifeMagicSpells" target="ThingsYouCantIgnore" weight="0.3938469886779785" />
+      <edge id="115" source="RealLifeMagicSpells" target="IfIHadABodyDouble" weight="0.3440377712249756" />
+      <edge id="116" source="RealLifeMagicSpells" target="ToFeelBetterI" weight="0.37375080585479736" />
+      <edge id="117" source="IHatePokemonGoBecause" target="IfICouldntLie" weight="0.39012324810028076" />
+      <edge id="118" source="IHatePokemonGoBecause" target="IHate" weight="0.3529796600341797" />
+      <edge id="119" source="IHatePokemonGoBecause" target="ChildrenThinkThat" weight="0.3931275010108948" />
+      <edge id="120" source="IHatePokemonGoBecause" target="WhenIWasYoung" weight="0.27222704887390137" />
+      <edge id="121" source="IHatePokemonGoBecause" target="DontTellAnyoneBut" weight="0.36269646883010864" />
+      <edge id="122" source="IHatePokemonGoBecause" target="INeedALawyerBecause" weight="0.3613397479057312" />
+      <edge id="123" source="IHatePokemonGoBecause" target="ReasonsToGetDivorced" weight="0.37046539783477783" />
+      <edge id="124" source="IHatePokemonGoBecause" target="ILoveMyFriendsBut" weight="0.3656482696533203" />
+      <edge id="125" source="IHatePokemonGoBecause" target="IfIHadABodyDouble" weight="0.3957872986793518" />
+      <edge id="126" source="entertainment" target="celebs" weight="0.37068039178848267" />
+      <edge id="127" source="entertainment" target="showbiz" weight="0.18896520137786865" />
+      <edge id="128" source="News" target="StLouis" weight="0.38566821813583374" />
+      <edge id="129" source="quote" target="quotes" weight="0.0" />
+      <edge id="130" source="true" target="IAmOnFire" weight="0.38241058588027954" />
+      <edge id="131" source="true" target="IAMONFIRE" weight="0.38241058588027954" />
+      <edge id="132" source="CCOT" target="PJNET" weight="0.21108776330947876" />
+      <edge id="133" source="CCOT" target="WakeUpAmerica" weight="0.2980850338935852" />
+      <edge id="134" source="CCOT" target="tcot" weight="0.29373645782470703" />
+      <edge id="135" source="CCOT" target="pjnet" weight="0.21108776330947876" />
+      <edge id="136" source="CCOT" target="ccot" weight="0.0" />
+      <edge id="137" source="PJNET" target="WakeUpAmerica" weight="0.28323090076446533" />
+      <edge id="138" source="PJNET" target="tcot" weight="0.2896612286567688" />
+      <edge id="139" source="PJNET" target="pjnet" weight="-1.1920928955078125e-07" />
+      <edge id="140" source="PJNET" target="ccot" weight="0.21108770370483398" />
+      <edge id="141" source="WakeUpAmerica" target="tcot" weight="0.26871758699417114" />
+      <edge id="142" source="WakeUpAmerica" target="pjnet" weight="0.28323090076446533" />
+      <edge id="143" source="WakeUpAmerica" target="ccot" weight="0.29808497428894043" />
+      <edge id="144" source="PoliceBrutality" target="BlackLivesMatter" weight="0.28289681673049927" />
+      <edge id="145" source="PoliceBrutality" target="blacklivesmatter" weight="0.28289681673049927" />
+      <edge id="146" source="PoliceBrutality" target="BlackToLive" weight="0.3204205632209778" />
+      <edge id="147" source="PoliceBrutality" target="FergusonRemembers" weight="0.3261137008666992" />
+      <edge id="148" source="PoliceBrutality" target="blacktolive" weight="0.3204205632209778" />
+      <edge id="149" source="LavrovBeStrong" target="MadeInRussia" weight="0.34562230110168457" />
+      <edge id="150" source="LavrovBeStrong" target="StopTANK" weight="0.377585768699646" />
+      <edge id="151" source="DemnDebate" target="DemDebate" weight="0.13150596618652344" />
+      <edge id="152" source="DemnDebate" target="VegasGOPDebate" weight="0.3301745653152466" />
+      <edge id="153" source="DemnDebate" target="GOPDebate" weight="0.31778913736343384" />
+      <edge id="154" source="DemDebate" target="VegasGOPDebate" weight="0.366774320602417" />
+      <edge id="155" source="DemDebate" target="GOPDebate" weight="0.3974224328994751" />
+      <edge id="156" source="IAmOnFire" target="iHQ" weight="0.35592174530029297" />
+      <edge id="157" source="IAmOnFire" target="IAMONFIRE" weight="-1.1920928955078125e-07" />
+      <edge id="158" source="IfICouldntLie" target="SometimesItsOkTo" weight="0.24604368209838867" />
+      <edge id="159" source="IfICouldntLie" target="IdRunForPresidentIf" weight="0.3222386837005615" />
+      <edge id="160" source="IfICouldntLie" target="ChildrenThinkThat" weight="0.3853965997695923" />
+      <edge id="161" source="IfICouldntLie" target="IGetDepressedWhen" weight="0.2986663579940796" />
+      <edge id="162" source="IfICouldntLie" target="ToAvoidWorkI" weight="0.30401861667633057" />
+      <edge id="163" source="IfICouldntLie" target="WhenIWasYoung" weight="0.34222549200057983" />
+      <edge id="164" source="IfICouldntLie" target="DontTellAnyoneBut" weight="0.29976576566696167" />
+      <edge id="165" source="IfICouldntLie" target="IStartCryingWhen" weight="0.36580413579940796" />
+      <edge id="166" source="IfICouldntLie" target="INeedALawyerBecause" weight="0.3493908643722534" />
+      <edge id="167" source="IfICouldntLie" target="ReasonsToGetDivorced" weight="0.2967544198036194" />
+      <edge id="168" source="IfICouldntLie" target="ILoveMyFriendsBut" weight="0.3984624147415161" />
+      <edge id="169" source="IfICouldntLie" target="IfIHadABodyDouble" weight="0.2316761612892151" />
+      <edge id="170" source="IfICouldntLie" target="IHaveARightToKnow" weight="0.3235319256782532" />
+      <edge id="171" source="IfICouldntLie" target="ThingsEveryBoyWantsToHear" weight="0.36176759004592896" />
+      <edge id="172" source="SometimesItsOkTo" target="RuinADinnerInOnePhrase" weight="0.3660165071487427" />
+      <edge id="173" source="SometimesItsOkTo" target="IdRunForPresidentIf" weight="0.35250723361968994" />
+      <edge id="174" source="SometimesItsOkTo" target="IGetDepressedWhen" weight="0.28426051139831543" />
+      <edge id="175" source="SometimesItsOkTo" target="ToAvoidWorkI" weight="0.28435319662094116" />
+      <edge id="176" source="SometimesItsOkTo" target="IStartCryingWhen" weight="0.35231149196624756" />
+      <edge id="177" source="SometimesItsOkTo" target="MyOlympicSportWouldBe" weight="0.3722795248031616" />
+      <edge id="178" source="SometimesItsOkTo" target="INeedALawyerBecause" weight="0.3428869843482971" />
+      <edge id="179" source="SometimesItsOkTo" target="SurvivalGuideToThanksgiving" weight="0.36343395709991455" />
+      <edge id="180" source="SometimesItsOkTo" target="ReasonsToGetDivorced" weight="0.31339389085769653" />
+      <edge id="181" source="SometimesItsOkTo" target="ILoveMyFriendsBut" weight="0.3108745217323303" />
+      <edge id="182" source="SometimesItsOkTo" target="IfIHadABodyDouble" weight="0.3219592571258545" />
+      <edge id="183" source="SometimesItsOkTo" target="ToFeelBetterI" weight="0.2233370542526245" />
+      <edge id="184" source="SometimesItsOkTo" target="ThingsEveryBoyWantsToHear" weight="0.3690207004547119" />
+      <edge id="185" source="PartyWentWrongWhen" target="RuinADinnerInOnePhrase" weight="0.39655035734176636" />
+      <edge id="186" source="PartyWentWrongWhen" target="SextingWentWrongWhen" weight="0.3196273446083069" />
+      <edge id="187" source="PartyWentWrongWhen" target="WhenIWasYoung" weight="0.38075393438339233" />
+      <edge id="188" source="PartyWentWrongWhen" target="IStartCryingWhen" weight="0.3652324676513672" />
+      <edge id="189" source="PartyWentWrongWhen" target="INeedALawyerBecause" weight="0.3683912754058838" />
+      <edge id="190" source="Chicago" target="Baltimore" weight="0.36201536655426025" />
+      <edge id="191" source="Chicago" target="Local" weight="0.310646653175354" />
+      <edge id="192" source="Chicago" target="StLouis" weight="0.35519886016845703" />
+      <edge id="193" source="tcot" target="pjnet" weight="0.2896612882614136" />
+      <edge id="194" source="tcot" target="ccot" weight="0.29373645782470703" />
+      <edge id="195" source="business" target="tech" weight="0.2805247902870178" />
+      <edge id="196" source="business" target="environment" weight="0.37485039234161377" />
+      <edge id="197" source="business" target="Local" weight="0.37978261709213257" />
+      <edge id="198" source="business" target="StLouis" weight="0.3459678292274475" />
+      <edge id="199" source="Texas" target="Maryland" weight="0.36697274446487427" />
+      <edge id="200" source="Texas" target="Local" weight="0.36550551652908325" />
+      <edge id="201" source="TRUMP" target="Hillary" weight="0.38726192712783813" />
+      <edge id="202" source="RuinADinnerInOnePhrase" target="ChildrenThinkThat" weight="0.3839026689529419" />
+      <edge id="203" source="RuinADinnerInOnePhrase" target="DontTellAnyoneBut" weight="0.36286628246307373" />
+      <edge id="204" source="RuinADinnerInOnePhrase" target="SurvivalGuideToThanksgiving" weight="0.35494714975357056" />
+      <edge id="205" source="RuinADinnerInOnePhrase" target="ReasonsToGetDivorced" weight="0.3766832947731018" />
+      <edge id="206" source="RuinADinnerInOnePhrase" target="IHaveARightToKnow" weight="0.3495025038719177" />
+      <edge id="207" source="RuinADinnerInOnePhrase" target="ThingsEveryBoyWantsToHear" weight="0.3129783272743225" />
+      <edge id="208" source="SecondhandGifts" target="PresentsTrumpGot" weight="0.3289404511451721" />
+      <edge id="209" source="SextingWentWrongWhen" target="HowToLoseYourJob" weight="0.3583287000656128" />
+      <edge id="210" source="SextingWentWrongWhen" target="DontTellAnyoneBut" weight="0.3921489119529724" />
+      <edge id="211" source="SextingWentWrongWhen" target="INeedALawyerBecause" weight="0.3033750653266907" />
+      <edge id="212" source="SextingWentWrongWhen" target="ReasonsToGetDivorced" weight="0.3612886071205139" />
+      <edge id="213" source="SextingWentWrongWhen" target="ILoveMyFriendsBut" weight="0.38596975803375244" />
+      <edge id="214" source="Russia" target="Syria" weight="0.38963717222213745" />
+      <edge id="215" source="MustBeBanned" target="IHate" weight="0.394784152507782" />
+      <edge id="216" source="BlackLivesMatter" target="BlackTwitter" weight="0.3422827124595642" />
+      <edge id="217" source="BlackLivesMatter" target="BLM" weight="0.22551095485687256" />
+      <edge id="218" source="BlackLivesMatter" target="blacktwitter" weight="0.3422827124595642" />
+      <edge id="219" source="BlackLivesMatter" target="blacklivesmatter" weight="-1.1920928955078125e-07" />
+      <edge id="220" source="BlackLivesMatter" target="BlackToLive" weight="0.24286717176437378" />
+      <edge id="221" source="BlackLivesMatter" target="FergusonRemembers" weight="0.3592103123664856" />
+      <edge id="222" source="BlackLivesMatter" target="blacktolive" weight="0.24286717176437378" />
+      <edge id="223" source="hockey" target="baseball" weight="0.3137062191963196" />
+      <edge id="224" source="hockey" target="Sports" weight="0.28747302293777466" />
+      <edge id="225" source="baseball" target="Sports" weight="0.25397318601608276" />
+      <edge id="226" source="StopIslam" target="IslamKills" weight="0.15876460075378418" />
+      <edge id="227" source="StopIslam" target="Brussels" weight="0.3346564769744873" />
+      <edge id="228" source="HillaryClinton" target="Hillary" weight="0.286210298538208" />
+      <edge id="229" source="iHQ" target="IAMONFIRE" weight="0.35592180490493774" />
+      <edge id="230" source="mar" target="sted" weight="0.2973215579986572" />
+      <edge id="231" source="mar" target="topl" weight="0.29813599586486816" />
+      <edge id="232" source="IdRunForPresidentIf" target="ChildrenThinkThat" weight="0.38339030742645264" />
+      <edge id="233" source="IdRunForPresidentIf" target="WhenIWasYoung" weight="0.38995295763015747" />
+      <edge id="234" source="IdRunForPresidentIf" target="DontTellAnyoneBut" weight="0.33756953477859497" />
+      <edge id="235" source="IdRunForPresidentIf" target="INeedALawyerBecause" weight="0.3895195722579956" />
+      <edge id="236" source="IdRunForPresidentIf" target="ReasonsToGetDivorced" weight="0.35785526037216187" />
+      <edge id="237" source="IdRunForPresidentIf" target="ObamasWishList" weight="0.3553614616394043" />
+      <edge id="238" source="IdRunForPresidentIf" target="POTUSLastTweet" weight="0.3524598479270935" />
+      <edge id="239" source="IdRunForPresidentIf" target="RejectedDebateTopics" weight="0.37982290983200073" />
+      <edge id="240" source="IdRunForPresidentIf" target="IfIHadABodyDouble" weight="0.3943951725959778" />
+      <edge id="241" source="IdRunForPresidentIf" target="IHaveARightToKnow" weight="0.3487176299095154" />
+      <edge id="242" source="IdRunForPresidentIf" target="ThingsEveryBoyWantsToHear" weight="0.3656389117240906" />
+      <edge id="243" source="POTUS" target="sted" weight="0.37046200037002563" />
+      <edge id="244" source="POTUS" target="topl" weight="0.38298457860946655" />
+      <edge id="245" source="celebs" target="showbiz" weight="0.27626103162765503" />
+      <edge id="246" source="BlackSkinIsNotACrime" target="FergusonRemembers" weight="0.3708893060684204" />
+      <edge id="247" source="HowToLoseYourJob" target="ToAvoidWorkI" weight="0.3103223443031311" />
+      <edge id="248" source="HowToLoseYourJob" target="INeedALawyerBecause" weight="0.37936580181121826" />
+      <edge id="249" source="HowToLoseYourJob" target="ReasonsToGetDivorced" weight="0.38153648376464844" />
+      <edge id="250" source="ThingsMoreTrustedThanHillary" target="DontTellAnyoneBut" weight="0.36545151472091675" />
+      <edge id="251" source="ThingsMoreTrustedThanHillary" target="PresentsTrumpGot" weight="0.3996254801750183" />
+      <edge id="252" source="IHate" target="IGetDepressedWhen" weight="0.37817442417144775" />
+      <edge id="253" source="IHate" target="WhenIWasYoung" weight="0.3751608729362488" />
+      <edge id="254" source="IHate" target="DontTellAnyoneBut" weight="0.3832019567489624" />
+      <edge id="255" source="NewYork" target="SanJose" weight="0.35411471128463745" />
+      <edge id="256" source="NewYork" target="showbiz" weight="0.3365406394004822" />
+      <edge id="257" source="NewYork" target="newyork" weight="0.0" />
+      <edge id="258" source="NewYork" target="StLouis" weight="0.364376962184906" />
+      <edge id="259" source="jud" target="amb" weight="0.19159382581710815" />
+      <edge id="260" source="jud" target="vvmar" weight="0.16096484661102295" />
+      <edge id="261" source="jud" target="marv" weight="0.23494774103164673" />
+      <edge id="262" source="ChildrenThinkThat" target="WhenIWasYoung" weight="0.17772328853607178" />
+      <edge id="263" source="ChildrenThinkThat" target="DontTellAnyoneBut" weight="0.26910895109176636" />
+      <edge id="264" source="ChildrenThinkThat" target="INeedALawyerBecause" weight="0.3809298276901245" />
+      <edge id="265" source="ChildrenThinkThat" target="ReasonsToGetDivorced" weight="0.38188624382019043" />
+      <edge id="266" source="ChildrenThinkThat" target="ILoveMyFriendsBut" weight="0.39266902208328247" />
+      <edge id="267" source="ChildrenThinkThat" target="IfIHadABodyDouble" weight="0.3386130928993225" />
+      <edge id="268" source="ChildrenThinkThat" target="IHaveARightToKnow" weight="0.34485381841659546" />
+      <edge id="269" source="ChildrenThinkThat" target="ThingsEveryBoyWantsToHear" weight="0.32559025287628174" />
+      <edge id="270" source="IGetDepressedWhen" target="ToAvoidWorkI" weight="0.312528133392334" />
+      <edge id="271" source="IGetDepressedWhen" target="IStartCryingWhen" weight="0.23768597841262817" />
+      <edge id="272" source="IGetDepressedWhen" target="MyOlympicSportWouldBe" weight="0.36969876289367676" />
+      <edge id="273" source="IGetDepressedWhen" target="ReasonsToGetDivorced" weight="0.3817169666290283" />
+      <edge id="274" source="IGetDepressedWhen" target="IfIHadABodyDouble" weight="0.38934022188186646" />
+      <edge id="275" source="IGetDepressedWhen" target="ToFeelBetterI" weight="0.3311260938644409" />
+      <edge id="276" source="ToAvoidWorkI" target="IStartCryingWhen" weight="0.39965683221817017" />
+      <edge id="277" source="ToAvoidWorkI" target="MyOlympicSportWouldBe" weight="0.3630595803260803" />
+      <edge id="278" source="ToAvoidWorkI" target="INeedALawyerBecause" weight="0.355401873588562" />
+      <edge id="279" source="ToAvoidWorkI" target="ReasonsToGetDivorced" weight="0.3872636556625366" />
+      <edge id="280" source="ToAvoidWorkI" target="IfIHadABodyDouble" weight="0.38714754581451416" />
+      <edge id="281" source="ToAvoidWorkI" target="ToFeelBetterI" weight="0.2940674424171448" />
+      <edge id="282" source="ISIS" target="Syria" weight="0.3641505837440491" />
+      <edge id="283" source="ISIS" target="Iraq" weight="0.3429250717163086" />
+      <edge id="284" source="pjnet" target="ccot" weight="0.21108770370483398" />
+      <edge id="285" source="WhenIWasYoung" target="DontTellAnyoneBut" weight="0.3363264799118042" />
+      <edge id="286" source="WhenIWasYoung" target="IStartCryingWhen" weight="0.3291279673576355" />
+      <edge id="287" source="WhenIWasYoung" target="INeedALawyerBecause" weight="0.354930579662323" />
+      <edge id="288" source="WhenIWasYoung" target="ReasonsToGetDivorced" weight="0.3673027753829956" />
+      <edge id="289" source="WhenIWasYoung" target="ILoveMyFriendsBut" weight="0.3694857954978943" />
+      <edge id="290" source="WhenIWasYoung" target="IfIHadABodyDouble" weight="0.35981154441833496" />
+      <edge id="291" source="WhenIWasYoung" target="IHaveARightToKnow" weight="0.37842220067977905" />
+      <edge id="292" source="WhenIWasYoung" target="ThingsEveryBoyWantsToHear" weight="0.32470840215682983" />
+      <edge id="293" source="DontTellAnyoneBut" target="IStartCryingWhen" weight="0.3956409692764282" />
+      <edge id="294" source="DontTellAnyoneBut" target="INeedALawyerBecause" weight="0.30131155252456665" />
+      <edge id="295" source="DontTellAnyoneBut" target="ReasonsToGetDivorced" weight="0.29164087772369385" />
+      <edge id="296" source="DontTellAnyoneBut" target="ILoveMyFriendsBut" weight="0.38337773084640503" />
+      <edge id="297" source="DontTellAnyoneBut" target="IfIHadABodyDouble" weight="0.3037729263305664" />
+      <edge id="298" source="DontTellAnyoneBut" target="IHaveARightToKnow" weight="0.32631176710128784" />
+      <edge id="299" source="DontTellAnyoneBut" target="ThingsEveryBoyWantsToHear" weight="0.31763482093811035" />
+      <edge id="300" source="IStartCryingWhen" target="INeedALawyerBecause" weight="0.3395635485649109" />
+      <edge id="301" source="IStartCryingWhen" target="ReasonsToGetDivorced" weight="0.3982185125350952" />
+      <edge id="302" source="IStartCryingWhen" target="ToFeelBetterI" weight="0.354952335357666" />
+      <edge id="303" source="MyOlympicSportWouldBe" target="ToFeelBetterI" weight="0.3753299117088318" />
+      <edge id="304" source="INeedALawyerBecause" target="ReasonsToGetDivorced" weight="0.1824304461479187" />
+      <edge id="305" source="INeedALawyerBecause" target="ILoveMyFriendsBut" weight="0.2945103645324707" />
+      <edge id="306" source="INeedALawyerBecause" target="IHaveARightToKnow" weight="0.34392911195755005" />
+      <edge id="307" source="INeedALawyerBecause" target="ThingsEveryBoyWantsToHear" weight="0.3018540143966675" />
+      <edge id="308" source="SanJose" target="newyork" weight="0.35411471128463745" />
+      <edge id="309" source="SanJose" target="Local" weight="0.29252201318740845" />
+      <edge id="310" source="SanJose" target="StLouis" weight="0.29195737838745117" />
+      <edge id="311" source="IslamKills" target="Brussels" weight="0.37842851877212524" />
+      <edge id="312" source="BlackTwitter" target="BlackHistoryMonth" weight="0.39380645751953125" />
+      <edge id="313" source="BlackTwitter" target="blacktwitter" weight="0.0" />
+      <edge id="314" source="BlackTwitter" target="blacklivesmatter" weight="0.3422827124595642" />
+      <edge id="315" source="BlackTwitter" target="BlackToLive" weight="0.293701171875" />
+      <edge id="316" source="BlackTwitter" target="blacktolive" weight="0.293701171875" />
+      <edge id="317" source="BLM" target="blacklivesmatter" weight="0.22551095485687256" />
+      <edge id="318" source="BLM" target="BlackToLive" weight="0.3896983861923218" />
+      <edge id="319" source="BLM" target="blacktolive" weight="0.3896983861923218" />
+      <edge id="320" source="TrumpsFavoriteHeadline" target="PresentsTrumpGot" weight="0.3463171124458313" />
+      <edge id="321" source="ReasonsToGetDivorced" target="ILoveMyFriendsBut" weight="0.27885162830352783" />
+      <edge id="322" source="ReasonsToGetDivorced" target="IfIHadABodyDouble" weight="0.3190652132034302" />
+      <edge id="323" source="ReasonsToGetDivorced" target="IHaveARightToKnow" weight="0.33904141187667847" />
+      <edge id="324" source="ReasonsToGetDivorced" target="ThingsEveryBoyWantsToHear" weight="0.2537088990211487" />
+      <edge id="325" source="ObamasWishList" target="POTUSLastTweet" weight="0.33437442779541016" />
+      <edge id="326" source="VegasGOPDebate" target="GOPDebate" weight="0.28264379501342773" />
+      <edge id="327" source="VegasGOPDebate" target="StopTheGOP" weight="0.32035624980926514" />
+      <edge id="328" source="NowPlaying" target="hiphop" weight="0.3897660970687866" />
+      <edge id="329" source="NowPlaying" target="nowplaying" weight="0.0" />
+      <edge id="330" source="BlackHistoryMonth" target="blacktwitter" weight="0.39380645751953125" />
+      <edge id="331" source="BlackHistoryMonth" target="BlackToLive" weight="0.32902979850769043" />
+      <edge id="332" source="BlackHistoryMonth" target="blacktolive" weight="0.32902979850769043" />
+      <edge id="333" source="Syria" target="Iraq" weight="0.2145841121673584" />
+      <edge id="334" source="Syria" target="SAA" weight="0.3820013403892517" />
+      <edge id="335" source="Syria" target="Turkey" weight="0.3933700919151306" />
+      <edge id="336" source="Syria" target="Aleppo" weight="0.2404845952987671" />
+      <edge id="337" source="ILoveMyFriendsBut" target="ToFeelBetterI" weight="0.3984519839286804" />
+      <edge id="338" source="ILoveMyFriendsBut" target="ThingsEveryBoyWantsToHear" weight="0.29869216680526733" />
+      <edge id="339" source="Iraq" target="Aleppo" weight="0.3328133225440979" />
+      <edge id="340" source="SAA" target="Aleppo" weight="0.22252851724624634" />
+      <edge id="341" source="Sports" target="StLouis" weight="0.34859901666641235" />
+      <edge id="342" source="Erdogan" target="Turkey" weight="0.29189443588256836" />
+      <edge id="343" source="Wisconsin" target="Maryland" weight="0.2746514081954956" />
+      <edge id="344" source="Wisconsin" target="Local" weight="0.3526861071586609" />
+      <edge id="345" source="Wisconsin" target="StLouis" weight="0.33802783489227295" />
+      <edge id="346" source="showbiz" target="newyork" weight="0.3365406394004822" />
+      <edge id="347" source="showbiz" target="Foke" weight="0.3033982515335083" />
+      <edge id="348" source="hiphop" target="nowplaying" weight="0.3897660970687866" />
+      <edge id="349" source="newyork" target="StLouis" weight="0.364376962184906" />
+      <edge id="350" source="amb" target="vvmar" weight="0.2631341218948364" />
+      <edge id="351" source="amb" target="marv" weight="0.34352123737335205" />
+      <edge id="352" source="GOPDebate" target="StopTheGOP" weight="0.2752974033355713" />
+      <edge id="353" source="blacktwitter" target="blacklivesmatter" weight="0.3422827124595642" />
+      <edge id="354" source="blacktwitter" target="BlackToLive" weight="0.293701171875" />
+      <edge id="355" source="blacktwitter" target="blacktolive" weight="0.293701171875" />
+      <edge id="356" source="sted" target="topl" weight="0.10101896524429321" />
+      <edge id="357" source="IfIHadABodyDouble" target="IHaveARightToKnow" weight="0.39044731855392456" />
+      <edge id="358" source="IfIHadABodyDouble" target="ThingsEveryBoyWantsToHear" weight="0.38031005859375" />
+      <edge id="359" source="Baltimore" target="Maryland" weight="0.20132744312286377" />
+      <edge id="360" source="Maryland" target="Local" weight="0.3339430093765259" />
+      <edge id="361" source="Maryland" target="StLouis" weight="0.313353955745697" />
+      <edge id="362" source="IHaveARightToKnow" target="ThingsEveryBoyWantsToHear" weight="0.3518058657646179" />
+      <edge id="363" source="blacklivesmatter" target="BlackToLive" weight="0.24286717176437378" />
+      <edge id="364" source="blacklivesmatter" target="FergusonRemembers" weight="0.3592103123664856" />
+      <edge id="365" source="blacklivesmatter" target="blacktolive" weight="0.24286717176437378" />
+      <edge id="366" source="BlackToLive" target="FergusonRemembers" weight="0.3302910327911377" />
+      <edge id="367" source="BlackToLive" target="blacktolive" weight="-1.1920928955078125e-07" />
+      <edge id="368" source="FergusonRemembers" target="blacktolive" weight="0.3302909731864929" />
+      <edge id="369" source="Local" target="StLouis" weight="0.206531822681427" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="count" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>05/02/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="FreePalestine" label="FreePalestine">
+        <attvalues>
+          <attvalue for="0" value="5065" />
+        </attvalues>
+      </node>
+      <node id="Iran" label="Iran">
+        <attvalues>
+          <attvalue for="0" value="11493" />
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="1954" />
+        </attvalues>
+      </node>
+      <node id="Islamophobia" label="Islamophobia">
+        <attvalues>
+          <attvalue for="0" value="743" />
+        </attvalues>
+      </node>
+      <node id="notmypresident" label="notmypresident">
+        <attvalues>
+          <attvalue for="0" value="586" />
+        </attvalues>
+      </node>
+      <node id="Politics" label="Politics">
+        <attvalues>
+          <attvalue for="0" value="744" />
+        </attvalues>
+      </node>
+      <node id="MiddleEast" label="MiddleEast">
+        <attvalues>
+          <attvalue for="0" value="439" />
+        </attvalues>
+      </node>
+      <node id="Palestine" label="Palestine">
+        <attvalues>
+          <attvalue for="0" value="3718" />
+        </attvalues>
+      </node>
+      <node id="Palestinians" label="Palestinians">
+        <attvalues>
+          <attvalue for="0" value="759" />
+        </attvalues>
+      </node>
+      <node id="Israeli" label="Israeli">
+        <attvalues>
+          <attvalue for="0" value="1639" />
+        </attvalues>
+      </node>
+      <node id="BDS" label="BDS">
+        <attvalues>
+          <attvalue for="0" value="2420" />
+        </attvalues>
+      </node>
+      <node id="Gaza" label="Gaza">
+        <attvalues>
+          <attvalue for="0" value="3154" />
+        </attvalues>
+      </node>
+      <node id="mediawatch" label="mediawatch">
+        <attvalues>
+          <attvalue for="0" value="736" />
+        </attvalues>
+      </node>
+      <node id="WeRemember" label="WeRemember">
+        <attvalues>
+          <attvalue for="0" value="738" />
+        </attvalues>
+      </node>
+      <node id="IFinallySnappedWhen" label="IFinallySnappedWhen">
+        <attvalues>
+          <attvalue for="0" value="649" />
+        </attvalues>
+      </node>
+      <node id="WYFFNews4" label="WYFFNews4">
+        <attvalues>
+          <attvalue for="0" value="728" />
+        </attvalues>
+      </node>
+      <node id="Westworld" label="Westworld">
+        <attvalues>
+          <attvalue for="0" value="749" />
+        </attvalues>
+      </node>
+      <node id="MemorialDay" label="MemorialDay">
+        <attvalues>
+          <attvalue for="0" value="763" />
+        </attvalues>
+      </node>
+      <node id="QudsDay4Return" label="QudsDay4Return">
+        <attvalues>
+          <attvalue for="0" value="4822" />
+        </attvalues>
+      </node>
+      <node id="MyDatingProfileSays" label="MyDatingProfileSays">
+        <attvalues>
+          <attvalue for="0" value="511" />
+        </attvalues>
+      </node>
+      <node id="CMin" label="CMin">
+        <attvalues>
+          <attvalue for="0" value="500" />
+        </attvalues>
+      </node>
+      <node id="SelamatDatangDiTwitter" label="SelamatDatangDiTwitter">
+        <attvalues>
+          <attvalue for="0" value="468" />
+        </attvalues>
+      </node>
+      <node id="FreeGaza" label="FreeGaza">
+        <attvalues>
+          <attvalue for="0" value="469" />
+        </attvalues>
+      </node>
+      <node id="Zarif" label="Zarif">
+        <attvalues>
+          <attvalue for="0" value="1067" />
+        </attvalues>
+      </node>
+      <node id="IranTalks" label="IranTalks">
+        <attvalues>
+          <attvalue for="0" value="2553" />
+        </attvalues>
+      </node>
+      <node id="IranDeal" label="IranDeal">
+        <attvalues>
+          <attvalue for="0" value="1721" />
+        </attvalues>
+      </node>
+      <node id="NuclearTalks" label="NuclearTalks">
+        <attvalues>
+          <attvalue for="0" value="2086" />
+        </attvalues>
+      </node>
+      <node id="Trump" label="Trump">
+        <attvalues>
+          <attvalue for="0" value="8500" />
+        </attvalues>
+      </node>
+      <node id="Netanyahu" label="Netanyahu">
+        <attvalues>
+          <attvalue for="0" value="1038" />
+        </attvalues>
+      </node>
+      <node id="nature" label="nature">
+        <attvalues>
+          <attvalue for="0" value="508" />
+        </attvalues>
+      </node>
+      <node id="InternationalQudsDay2018" label="InternationalQudsDay2018">
+        <attvalues>
+          <attvalue for="0" value="2815" />
+        </attvalues>
+      </node>
+      <node id="SavePalestine" label="SavePalestine">
+        <attvalues>
+          <attvalue for="0" value="2453" />
+        </attvalues>
+      </node>
+      <node id="QudsDay2018" label="QudsDay2018">
+        <attvalues>
+          <attvalue for="0" value="2519" />
+        </attvalues>
+      </node>
+      <node id="DeleteIsrael" label="DeleteIsrael">
+        <attvalues>
+          <attvalue for="0" value="3842" />
+        </attvalues>
+      </node>
+      <node id="Jerusalem" label="Jerusalem">
+        <attvalues>
+          <attvalue for="0" value="696" />
+        </attvalues>
+      </node>
+      <node id="WednesdayWisdom" label="WednesdayWisdom">
+        <attvalues>
+          <attvalue for="0" value="573" />
+        </attvalues>
+      </node>
+      <node id="ArabiaSaudí" label="ArabiaSaudí">
+        <attvalues>
+          <attvalue for="0" value="615" />
+        </attvalues>
+      </node>
+      <node id="Israel" label="Israel">
+        <attvalues>
+          <attvalue for="0" value="6734" />
+        </attvalues>
+      </node>
+      <node id="Irak" label="Irak">
+        <attvalues>
+          <attvalue for="0" value="713" />
+        </attvalues>
+      </node>
+      <node id="Putin" label="Putin">
+        <attvalues>
+          <attvalue for="0" value="816" />
+        </attvalues>
+      </node>
+      <node id="Quds" label="Quds">
+        <attvalues>
+          <attvalue for="0" value="1074" />
+        </attvalues>
+      </node>
+      <node id="ThursdayThoughts" label="ThursdayThoughts">
+        <attvalues>
+          <attvalue for="0" value="414" />
+        </attvalues>
+      </node>
+      <node id="SaveYemen" label="SaveYemen">
+        <attvalues>
+          <attvalue for="0" value="1727" />
+        </attvalues>
+      </node>
+      <node id="StopTheWarOnYemen" label="StopTheWarOnYemen">
+        <attvalues>
+          <attvalue for="0" value="561" />
+        </attvalues>
+      </node>
+      <node id="Benalla" label="Benalla">
+        <attvalues>
+          <attvalue for="0" value="1172" />
+        </attvalues>
+      </node>
+      <node id="Macron" label="Macron">
+        <attvalues>
+          <attvalue for="0" value="1554" />
+        </attvalues>
+      </node>
+      <node id="Israël" label="Israël">
+        <attvalues>
+          <attvalue for="0" value="693" />
+        </attvalues>
+      </node>
+      <node id="Daesh" label="Daesh">
+        <attvalues>
+          <attvalue for="0" value="1914" />
+        </attvalues>
+      </node>
+      <node id="science" label="science">
+        <attvalues>
+          <attvalue for="0" value="1519" />
+        </attvalues>
+      </node>
+      <node id="Yemen" label="Yemen">
+        <attvalues>
+          <attvalue for="0" value="5381" />
+        </attvalues>
+      </node>
+      <node id="Venezuela" label="Venezuela">
+        <attvalues>
+          <attvalue for="0" value="1248" />
+        </attvalues>
+      </node>
+      <node id="Saudi" label="Saudi">
+        <attvalues>
+          <attvalue for="0" value="3289" />
+        </attvalues>
+      </node>
+      <node id="UAE" label="UAE">
+        <attvalues>
+          <attvalue for="0" value="640" />
+        </attvalues>
+      </node>
+      <node id="US" label="US">
+        <attvalues>
+          <attvalue for="0" value="4566" />
+        </attvalues>
+      </node>
+      <node id="Syria" label="Syria">
+        <attvalues>
+          <attvalue for="0" value="3482" />
+        </attvalues>
+      </node>
+      <node id="Hollande" label="Hollande">
+        <attvalues>
+          <attvalue for="0" value="1963" />
+        </attvalues>
+      </node>
+      <node id="Washington" label="Washington">
+        <attvalues>
+          <attvalue for="0" value="667" />
+        </attvalues>
+      </node>
+      <node id="blackhouse" label="blackhouse">
+        <attvalues>
+          <attvalue for="0" value="1373" />
+        </attvalues>
+      </node>
+      <node id="blackhouse_info" label="blackhouse_info">
+        <attvalues>
+          <attvalue for="0" value="1372" />
+        </attvalues>
+      </node>
+      <node id="Argentina" label="Argentina">
+        <attvalues>
+          <attvalue for="0" value="602" />
+        </attvalues>
+      </node>
+      <node id="Top" label="Top">
+        <attvalues>
+          <attvalue for="0" value="1336" />
+        </attvalues>
+      </node>
+      <node id="Myanmar" label="Myanmar">
+        <attvalues>
+          <attvalue for="0" value="639" />
+        </attvalues>
+      </node>
+      <node id="MyanmarGenocide" label="MyanmarGenocide">
+        <attvalues>
+          <attvalue for="0" value="907" />
+        </attvalues>
+      </node>
+      <node id="RohingyaMuslims" label="RohingyaMuslims">
+        <attvalues>
+          <attvalue for="0" value="1239" />
+        </attvalues>
+      </node>
+      <node id="V" label="V">
+        <attvalues>
+          <attvalue for="0" value="500" />
+        </attvalues>
+      </node>
+      <node id="DonaldTrump" label="DonaldTrump">
+        <attvalues>
+          <attvalue for="0" value="961" />
+        </attvalues>
+      </node>
+      <node id="NorthKorea" label="NorthKorea">
+        <attvalues>
+          <attvalue for="0" value="552" />
+        </attvalues>
+      </node>
+      <node id="Maduro" label="Maduro">
+        <attvalues>
+          <attvalue for="0" value="676" />
+        </attvalues>
+      </node>
+      <node id="EEUU" label="EEUU">
+        <attvalues>
+          <attvalue for="0" value="3246" />
+        </attvalues>
+      </node>
+      <node id="American" label="American">
+        <attvalues>
+          <attvalue for="0" value="501" />
+        </attvalues>
+      </node>
+      <node id="SaudiArabia" label="SaudiArabia">
+        <attvalues>
+          <attvalue for="0" value="2965" />
+        </attvalues>
+      </node>
+      <node id="ArabiaSaudita" label="ArabiaSaudita">
+        <attvalues>
+          <attvalue for="0" value="681" />
+        </attvalues>
+      </node>
+      <node id="Iraq" label="Iraq">
+        <attvalues>
+          <attvalue for="0" value="1446" />
+        </attvalues>
+      </node>
+      <node id="Q4T" label="Q4T">
+        <attvalues>
+          <attvalue for="0" value="1410" />
+        </attvalues>
+      </node>
+      <node id="UK" label="UK">
+        <attvalues>
+          <attvalue for="0" value="1039" />
+        </attvalues>
+      </node>
+      <node id="FromMasjidAlHaram" label="FromMasjidAlHaram">
+        <attvalues>
+          <attvalue for="0" value="1586" />
+        </attvalues>
+      </node>
+      <node id="Hajj" label="Hajj">
+        <attvalues>
+          <attvalue for="0" value="545" />
+        </attvalues>
+      </node>
+      <node id="FelizMartes" label="FelizMartes">
+        <attvalues>
+          <attvalue for="0" value="531" />
+        </attvalues>
+      </node>
+      <node id="TheBachelor" label="TheBachelor">
+        <attvalues>
+          <attvalue for="0" value="686" />
+        </attvalues>
+      </node>
+      <node id="America" label="America">
+        <attvalues>
+          <attvalue for="0" value="911" />
+        </attvalues>
+      </node>
+      <node id="Resistance" label="Resistance">
+        <attvalues>
+          <attvalue for="0" value="534" />
+        </attvalues>
+      </node>
+      <node id="ImpeachTrump" label="ImpeachTrump">
+        <attvalues>
+          <attvalue for="0" value="1326" />
+        </attvalues>
+      </node>
+      <node id="NotMyPresident" label="NotMyPresident">
+        <attvalues>
+          <attvalue for="0" value="943" />
+        </attvalues>
+      </node>
+      <node id="Resist" label="Resist">
+        <attvalues>
+          <attvalue for="0" value="818" />
+        </attvalues>
+      </node>
+      <node id="LivePD" label="LivePD">
+        <attvalues>
+          <attvalue for="0" value="710" />
+        </attvalues>
+      </node>
+      <node id="impeachtrump" label="impeachtrump">
+        <attvalues>
+          <attvalue for="0" value="489" />
+        </attvalues>
+      </node>
+      <node id="AntiTrump" label="AntiTrump">
+        <attvalues>
+          <attvalue for="0" value="662" />
+        </attvalues>
+      </node>
+      <node id="trump" label="trump">
+        <attvalues>
+          <attvalue for="0" value="955" />
+        </attvalues>
+      </node>
+      <node id="YemenWarCup" label="YemenWarCup">
+        <attvalues>
+          <attvalue for="0" value="426" />
+        </attvalues>
+      </node>
+      <node id="Canada" label="Canada">
+        <attvalues>
+          <attvalue for="0" value="1437" />
+        </attvalues>
+      </node>
+      <node id="Afghanistan" label="Afghanistan">
+        <attvalues>
+          <attvalue for="0" value="569" />
+        </attvalues>
+      </node>
+      <node id="realiran" label="realiran">
+        <attvalues>
+          <attvalue for="0" value="4057" />
+        </attvalues>
+      </node>
+      <node id="Realiran" label="Realiran">
+        <attvalues>
+          <attvalue for="0" value="2701" />
+        </attvalues>
+      </node>
+      <node id="Tehran" label="Tehran">
+        <attvalues>
+          <attvalue for="0" value="2017" />
+        </attvalues>
+      </node>
+      <node id="1000DaysOfWarOnYemen" label="1000DaysOfWarOnYemen">
+        <attvalues>
+          <attvalue for="0" value="456" />
+        </attvalues>
+      </node>
+      <node id="ForgottenQuran" label="ForgottenQuran">
+        <attvalues>
+          <attvalue for="0" value="1046" />
+        </attvalues>
+      </node>
+      <node id="BREAKING" label="BREAKING">
+        <attvalues>
+          <attvalue for="0" value="1025" />
+        </attvalues>
+      </node>
+      <node id="UScrimes" label="UScrimes">
+        <attvalues>
+          <attvalue for="0" value="438" />
+        </attvalues>
+      </node>
+      <node id="Islam" label="Islam">
+        <attvalues>
+          <attvalue for="0" value="1680" />
+        </attvalues>
+      </node>
+      <node id="GazaUnderAttack" label="GazaUnderAttack">
+        <attvalues>
+          <attvalue for="0" value="456" />
+        </attvalues>
+      </node>
+      <node id="GreatReturnMarch" label="GreatReturnMarch">
+        <attvalues>
+          <attvalue for="0" value="605" />
+        </attvalues>
+      </node>
+      <node id="FreeAhedTamimi" label="FreeAhedTamimi">
+        <attvalues>
+          <attvalue for="0" value="623" />
+        </attvalues>
+      </node>
+      <node id="Science" label="Science">
+        <attvalues>
+          <attvalue for="0" value="966" />
+        </attvalues>
+      </node>
+      <node id="India" label="India">
+        <attvalues>
+          <attvalue for="0" value="415" />
+        </attvalues>
+      </node>
+      <node id="Palestinian" label="Palestinian">
+        <attvalues>
+          <attvalue for="0" value="1645" />
+        </attvalues>
+      </node>
+      <node id="war" label="war">
+        <attvalues>
+          <attvalue for="0" value="430" />
+        </attvalues>
+      </node>
+      <node id="Erdogan" label="Erdogan">
+        <attvalues>
+          <attvalue for="0" value="562" />
+        </attvalues>
+      </node>
+      <node id="Obama" label="Obama">
+        <attvalues>
+          <attvalue for="0" value="1196" />
+        </attvalues>
+      </node>
+      <node id="ISIS" label="ISIS">
+        <attvalues>
+          <attvalue for="0" value="4025" />
+        </attvalues>
+      </node>
+      <node id="Terrorism" label="Terrorism">
+        <attvalues>
+          <attvalue for="0" value="402" />
+        </attvalues>
+      </node>
+      <node id="France" label="France">
+        <attvalues>
+          <attvalue for="0" value="1313" />
+        </attvalues>
+      </node>
+      <node id="Mexico" label="Mexico">
+        <attvalues>
+          <attvalue for="0" value="712" />
+        </attvalues>
+      </node>
+      <node id="Shiraz" label="Shiraz">
+        <attvalues>
+          <attvalue for="0" value="434" />
+        </attvalues>
+      </node>
+      <node id="RealIran" label="RealIran">
+        <attvalues>
+          <attvalue for="0" value="491" />
+        </attvalues>
+      </node>
+      <node id="MBCTheVoice" label="MBCTheVoice">
+        <attvalues>
+          <attvalue for="0" value="474" />
+        </attvalues>
+      </node>
+      <node id="Iranian" label="Iranian">
+        <attvalues>
+          <attvalue for="0" value="734" />
+        </attvalues>
+      </node>
+      <node id="SaveRohingya" label="SaveRohingya">
+        <attvalues>
+          <attvalue for="0" value="1612" />
+        </attvalues>
+      </node>
+      <node id="Genocide" label="Genocide">
+        <attvalues>
+          <attvalue for="0" value="1287" />
+        </attvalues>
+      </node>
+      <node id="Rohingya" label="Rohingya">
+        <attvalues>
+          <attvalue for="0" value="1886" />
+        </attvalues>
+      </node>
+      <node id="TuesdayThoughts" label="TuesdayThoughts">
+        <attvalues>
+          <attvalue for="0" value="716" />
+        </attvalues>
+      </node>
+      <node id="Russia" label="Russia">
+        <attvalues>
+          <attvalue for="0" value="1495" />
+        </attvalues>
+      </node>
+      <node id="PalestineMustBeFree" label="PalestineMustBeFree">
+        <attvalues>
+          <attvalue for="0" value="792" />
+        </attvalues>
+      </node>
+      <node id="LetUsAllUnite" label="LetUsAllUnite">
+        <attvalues>
+          <attvalue for="0" value="788" />
+        </attvalues>
+      </node>
+      <node id="QudsDay" label="QudsDay">
+        <attvalues>
+          <attvalue for="0" value="1106" />
+        </attvalues>
+      </node>
+      <node id="QudsDay2017" label="QudsDay2017">
+        <attvalues>
+          <attvalue for="0" value="721" />
+        </attvalues>
+      </node>
+      <node id="IRAN" label="IRAN">
+        <attvalues>
+          <attvalue for="0" value="404" />
+        </attvalues>
+      </node>
+      <node id="Hezbollah" label="Hezbollah">
+        <attvalues>
+          <attvalue for="0" value="412" />
+        </attvalues>
+      </node>
+      <node id="Syria4Syrians" label="Syria4Syrians">
+        <attvalues>
+          <attvalue for="0" value="801" />
+        </attvalues>
+      </node>
+      <node id="Kerry" label="Kerry">
+        <attvalues>
+          <attvalue for="0" value="428" />
+        </attvalues>
+      </node>
+      <node id="Syrie" label="Syrie">
+        <attvalues>
+          <attvalue for="0" value="656" />
+        </attvalues>
+      </node>
+      <node id="AhlulBayt" label="AhlulBayt">
+        <attvalues>
+          <attvalue for="0" value="1098" />
+        </attvalues>
+      </node>
+      <node id="Iuvm" label="Iuvm">
+        <attvalues>
+          <attvalue for="0" value="2893" />
+        </attvalues>
+      </node>
+      <node id="press" label="press">
+        <attvalues>
+          <attvalue for="0" value="511" />
+        </attvalues>
+      </node>
+      <node id="pashto" label="pashto">
+        <attvalues>
+          <attvalue for="0" value="445" />
+        </attvalues>
+      </node>
+      <node id="IuvmPress" label="IuvmPress">
+        <attvalues>
+          <attvalue for="0" value="2442" />
+        </attvalues>
+      </node>
+      <node id="News" label="News">
+        <attvalues>
+          <attvalue for="0" value="2629" />
+        </attvalues>
+      </node>
+      <node id="Press" label="Press">
+        <attvalues>
+          <attvalue for="0" value="2497" />
+        </attvalues>
+      </node>
+      <node id="Article" label="Article">
+        <attvalues>
+          <attvalue for="0" value="2352" />
+        </attvalues>
+      </node>
+      <node id="Iuvmorg" label="Iuvmorg">
+        <attvalues>
+          <attvalue for="0" value="2326" />
+        </attvalues>
+      </node>
+      <node id="IuvmNews" label="IuvmNews">
+        <attvalues>
+          <attvalue for="0" value="2300" />
+        </attvalues>
+      </node>
+      <node id="Clinton" label="Clinton">
+        <attvalues>
+          <attvalue for="0" value="566" />
+        </attvalues>
+      </node>
+      <node id="Qatar" label="Qatar">
+        <attvalues>
+          <attvalue for="0" value="776" />
+        </attvalues>
+      </node>
+      <node id="palestine" label="palestine">
+        <attvalues>
+          <attvalue for="0" value="800" />
+        </attvalues>
+      </node>
+      <node id="Irán" label="Irán">
+        <attvalues>
+          <attvalue for="0" value="693" />
+        </attvalues>
+      </node>
+      <node id="Muslim" label="Muslim">
+        <attvalues>
+          <attvalue for="0" value="1272" />
+        </attvalues>
+      </node>
+      <node id="WorldCup" label="WorldCup">
+        <attvalues>
+          <attvalue for="0" value="470" />
+        </attvalues>
+      </node>
+      <node id="ISIL" label="ISIL">
+        <attvalues>
+          <attvalue for="0" value="424" />
+        </attvalues>
+      </node>
+      <node id="World" label="World">
+        <attvalues>
+          <attvalue for="0" value="445" />
+        </attvalues>
+      </node>
+      <node id="China" label="China">
+        <attvalues>
+          <attvalue for="0" value="906" />
+        </attvalues>
+      </node>
+      <node id="IranTalksVienna" label="IranTalksVienna">
+        <attvalues>
+          <attvalue for="0" value="565" />
+        </attvalues>
+      </node>
+      <node id="Yemeni" label="Yemeni">
+        <attvalues>
+          <attvalue for="0" value="414" />
+        </attvalues>
+      </node>
+      <node id="WhiteHouse" label="WhiteHouse">
+        <attvalues>
+          <attvalue for="0" value="421" />
+        </attvalues>
+      </node>
+      <node id="MAGA" label="MAGA">
+        <attvalues>
+          <attvalue for="0" value="460" />
+        </attvalues>
+      </node>
+      <node id="Muslims" label="Muslims">
+        <attvalues>
+          <attvalue for="0" value="966" />
+        </attvalues>
+      </node>
+      <node id="DerechosHumanos" label="DerechosHumanos">
+        <attvalues>
+          <attvalue for="0" value="510" />
+        </attvalues>
+      </node>
+      <node id="nuclear" label="nuclear">
+        <attvalues>
+          <attvalue for="0" value="442" />
+        </attvalues>
+      </node>
+      <node id="CIA" label="CIA">
+        <attvalues>
+          <attvalue for="0" value="697" />
+        </attvalues>
+      </node>
+      <node id="Palestina" label="Palestina">
+        <attvalues>
+          <attvalue for="0" value="701" />
+        </attvalues>
+      </node>
+      <node id="Mosul" label="Mosul">
+        <attvalues>
+          <attvalue for="0" value="414" />
+        </attvalues>
+      </node>
+      <node id="Macri" label="Macri">
+        <attvalues>
+          <attvalue for="0" value="439" />
+        </attvalues>
+      </node>
+      <node id="Siria" label="Siria">
+        <attvalues>
+          <attvalue for="0" value="1797" />
+        </attvalues>
+      </node>
+      <node id="JordanNews" label="JordanNews">
+        <attvalues>
+          <attvalue for="0" value="1207" />
+        </attvalues>
+      </node>
+      <node id="FelizDomingo" label="FelizDomingo">
+        <attvalues>
+          <attvalue for="0" value="565" />
+        </attvalues>
+      </node>
+      <node id="SundayMorning" label="SundayMorning">
+        <attvalues>
+          <attvalue for="0" value="710" />
+        </attvalues>
+      </node>
+      <node id="HappyBirthdayJustinBieber" label="HappyBirthdayJustinBieber">
+        <attvalues>
+          <attvalue for="0" value="403" />
+        </attvalues>
+      </node>
+      <node id="jordantimes" label="jordantimes">
+        <attvalues>
+          <attvalue for="0" value="781" />
+        </attvalues>
+      </node>
+      <node id="SaudiaArabia" label="SaudiaArabia">
+        <attvalues>
+          <attvalue for="0" value="682" />
+        </attvalues>
+      </node>
+      <node id="1000FatalDay" label="1000FatalDay">
+        <attvalues>
+          <attvalue for="0" value="566" />
+        </attvalues>
+      </node>
+      <node id="IranToday" label="IranToday">
+        <attvalues>
+          <attvalue for="0" value="435" />
+        </attvalues>
+      </node>
+      <node id="Zionist" label="Zionist">
+        <attvalues>
+          <attvalue for="0" value="449" />
+        </attvalues>
+      </node>
+      <node id="Turkey" label="Turkey">
+        <attvalues>
+          <attvalue for="0" value="670" />
+        </attvalues>
+      </node>
+      <node id="Bahrain" label="Bahrain">
+        <attvalues>
+          <attvalue for="0" value="1083" />
+        </attvalues>
+      </node>
+      <node id="Egypt" label="Egypt">
+        <attvalues>
+          <attvalue for="0" value="405" />
+        </attvalues>
+      </node>
+      <node id="PalestinaLibre" label="PalestinaLibre">
+        <attvalues>
+          <attvalue for="0" value="612" />
+        </attvalues>
+      </node>
+      <node id="israel" label="israel">
+        <attvalues>
+          <attvalue for="0" value="609" />
+        </attvalues>
+      </node>
+      <node id="MondayMotivation" label="MondayMotivation">
+        <attvalues>
+          <attvalue for="0" value="566" />
+        </attvalues>
+      </node>
+      <node id="SaturdayMorning" label="SaturdayMorning">
+        <attvalues>
+          <attvalue for="0" value="450" />
+        </attvalues>
+      </node>
+      <node id="Rusia" label="Rusia">
+        <attvalues>
+          <attvalue for="0" value="957" />
+        </attvalues>
+      </node>
+      <node id="Europe" label="Europe">
+        <attvalues>
+          <attvalue for="0" value="431" />
+        </attvalues>
+      </node>
+      <node id="JerusalemIsTheEternalCapitalOfPalestine" label="JerusalemIsTheEternalCapitalOfPalestine">
+        <attvalues>
+          <attvalue for="0" value="1138" />
+        </attvalues>
+      </node>
+      <node id="Isfahan" label="Isfahan">
+        <attvalues>
+          <attvalue for="0" value="401" />
+        </attvalues>
+      </node>
+      <node id="Canadá" label="Canadá">
+        <attvalues>
+          <attvalue for="0" value="487" />
+        </attvalues>
+      </node>
+      <node id="ONU" label="ONU">
+        <attvalues>
+          <attvalue for="0" value="656" />
+        </attvalues>
+      </node>
+      <node id="México" label="México">
+        <attvalues>
+          <attvalue for="0" value="961" />
+        </attvalues>
+      </node>
+      <node id="UN" label="UN">
+        <attvalues>
+          <attvalue for="0" value="685" />
+        </attvalues>
+      </node>
+      <node id="HumanRights" label="HumanRights">
+        <attvalues>
+          <attvalue for="0" value="532" />
+        </attvalues>
+      </node>
+      <node id="yemen" label="yemen">
+        <attvalues>
+          <attvalue for="0" value="457" />
+        </attvalues>
+      </node>
+      <node id="Germany" label="Germany">
+        <attvalues>
+          <attvalue for="0" value="406" />
+        </attvalues>
+      </node>
+      <node id="QudsCapitalOfPalestine" label="QudsCapitalOfPalestine">
+        <attvalues>
+          <attvalue for="0" value="459" />
+        </attvalues>
+      </node>
+      <node id="terrorism" label="terrorism">
+        <attvalues>
+          <attvalue for="0" value="580" />
+        </attvalues>
+      </node>
+      <node id="EU" label="EU">
+        <attvalues>
+          <attvalue for="0" value="711" />
+        </attvalues>
+      </node>
+      <node id="Ramadan" label="Ramadan">
+        <attvalues>
+          <attvalue for="0" value="409" />
+        </attvalues>
+      </node>
+      <node id="JCPOA" label="JCPOA">
+        <attvalues>
+          <attvalue for="0" value="603" />
+        </attvalues>
+      </node>
+      <node id="freepalestine" label="freepalestine">
+        <attvalues>
+          <attvalue for="0" value="442" />
+        </attvalues>
+      </node>
+      <node id="gaza" label="gaza">
+        <attvalues>
+          <attvalue for="0" value="489" />
+        </attvalues>
+      </node>
+      <node id="Turquía" label="Turquía">
+        <attvalues>
+          <attvalue for="0" value="469" />
+        </attvalues>
+      </node>
+      <node id="Pakistan" label="Pakistan">
+        <attvalues>
+          <attvalue for="0" value="580" />
+        </attvalues>
+      </node>
+      <node id="art" label="art">
+        <attvalues>
+          <attvalue for="0" value="542" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="FreePalestine" target="BDS" weight="0.3738211989402771" />
+      <edge id="1" source="FreePalestine" target="FreeGaza" weight="0.31696194410324097" />
+      <edge id="2" source="FreePalestine" target="GazaUnderAttack" weight="0.3464653491973877" />
+      <edge id="3" source="FreePalestine" target="freepalestine" weight="0.0" />
+      <edge id="4" source="Iran" target="Iranian" weight="0.26286226511001587" />
+      <edge id="5" source="Iran" target="IRAN" weight="5.960464477539063e-08" />
+      <edge id="6" source="Iran" target="JCPOA" weight="0.3723575472831726" />
+      <edge id="7" source="Islamophobia" target="Muslim" weight="0.3494165539741516" />
+      <edge id="8" source="Islamophobia" target="Muslims" weight="0.3494165539741516" />
+      <edge id="9" source="notmypresident" target="WednesdayWisdom" weight="0.3002602458000183" />
+      <edge id="10" source="notmypresident" target="ThursdayThoughts" weight="0.37297117710113525" />
+      <edge id="11" source="notmypresident" target="TheBachelor" weight="0.3878116011619568" />
+      <edge id="12" source="notmypresident" target="ImpeachTrump" weight="0.19266122579574585" />
+      <edge id="13" source="notmypresident" target="NotMyPresident" weight="0.0" />
+      <edge id="14" source="notmypresident" target="impeachtrump" weight="0.19266122579574585" />
+      <edge id="15" source="notmypresident" target="AntiTrump" weight="0.2481507658958435" />
+      <edge id="16" source="notmypresident" target="MAGA" weight="0.23632526397705078" />
+      <edge id="17" source="notmypresident" target="SundayMorning" weight="0.3626783490180969" />
+      <edge id="18" source="notmypresident" target="SaturdayMorning" weight="0.2725064158439636" />
+      <edge id="19" source="MiddleEast" target="SaudiArabia" weight="0.3882623314857483" />
+      <edge id="20" source="Palestine" target="palestine" weight="0.0" />
+      <edge id="21" source="Palestinians" target="GreatReturnMarch" weight="0.36247360706329346" />
+      <edge id="22" source="Palestinians" target="Palestinian" weight="5.960464477539063e-08" />
+      <edge id="23" source="Israeli" target="Israel" weight="0.3681294918060303" />
+      <edge id="24" source="Israeli" target="Zionist" weight="0.2786526083946228" />
+      <edge id="25" source="Israeli" target="israel" weight="0.3681294918060303" />
+      <edge id="26" source="BDS" target="FreeGaza" weight="0.262299120426178" />
+      <edge id="27" source="BDS" target="GreatReturnMarch" weight="0.37312984466552734" />
+      <edge id="28" source="BDS" target="freepalestine" weight="0.3738211989402771" />
+      <edge id="29" source="Gaza" target="gaza" weight="5.960464477539063e-08" />
+      <edge id="30" source="mediawatch" target="WeRemember" weight="0.005548655986785889" />
+      <edge id="31" source="mediawatch" target="IFinallySnappedWhen" weight="0.015951991081237793" />
+      <edge id="32" source="mediawatch" target="Westworld" weight="0.06301635503768921" />
+      <edge id="33" source="mediawatch" target="MemorialDay" weight="0.09815347194671631" />
+      <edge id="34" source="mediawatch" target="MyDatingProfileSays" weight="0.04941534996032715" />
+      <edge id="35" source="mediawatch" target="CMin" weight="0.05718433856964111" />
+      <edge id="36" source="mediawatch" target="SelamatDatangDiTwitter" weight="0.06077390909194946" />
+      <edge id="37" source="mediawatch" target="pashto" weight="0.31448543071746826" />
+      <edge id="38" source="WeRemember" target="IFinallySnappedWhen" weight="0.0077727437019348145" />
+      <edge id="39" source="WeRemember" target="Westworld" weight="0.049944400787353516" />
+      <edge id="40" source="WeRemember" target="MemorialDay" weight="0.07217347621917725" />
+      <edge id="41" source="WeRemember" target="MyDatingProfileSays" weight="0.03209763765335083" />
+      <edge id="42" source="WeRemember" target="CMin" weight="0.03756064176559448" />
+      <edge id="43" source="WeRemember" target="SelamatDatangDiTwitter" weight="0.040886640548706055" />
+      <edge id="44" source="WeRemember" target="pashto" weight="0.32720357179641724" />
+      <edge id="45" source="IFinallySnappedWhen" target="Westworld" weight="0.05308026075363159" />
+      <edge id="46" source="IFinallySnappedWhen" target="MemorialDay" weight="0.07218015193939209" />
+      <edge id="47" source="IFinallySnappedWhen" target="MyDatingProfileSays" weight="0.02474433183670044" />
+      <edge id="48" source="IFinallySnappedWhen" target="CMin" weight="0.03092092275619507" />
+      <edge id="49" source="IFinallySnappedWhen" target="SelamatDatangDiTwitter" weight="0.02878671884536743" />
+      <edge id="50" source="IFinallySnappedWhen" target="pashto" weight="0.31147968769073486" />
+      <edge id="51" source="Westworld" target="MemorialDay" weight="0.06798446178436279" />
+      <edge id="52" source="Westworld" target="MyDatingProfileSays" weight="0.06749063730239868" />
+      <edge id="53" source="Westworld" target="CMin" weight="0.0658876895904541" />
+      <edge id="54" source="Westworld" target="SelamatDatangDiTwitter" weight="0.07497191429138184" />
+      <edge id="55" source="Westworld" target="MondayMotivation" weight="0.3843206763267517" />
+      <edge id="56" source="MemorialDay" target="MyDatingProfileSays" weight="0.06162261962890625" />
+      <edge id="57" source="MemorialDay" target="CMin" weight="0.05482369661331177" />
+      <edge id="58" source="MemorialDay" target="SelamatDatangDiTwitter" weight="0.06323784589767456" />
+      <edge id="59" source="MyDatingProfileSays" target="CMin" weight="0.002934277057647705" />
+      <edge id="60" source="MyDatingProfileSays" target="SelamatDatangDiTwitter" weight="0.0032007694244384766" />
+      <edge id="61" source="MyDatingProfileSays" target="pashto" weight="0.3954387903213501" />
+      <edge id="62" source="CMin" target="SelamatDatangDiTwitter" weight="0.0035614371299743652" />
+      <edge id="63" source="FreeGaza" target="SavePalestine" weight="0.3639281392097473" />
+      <edge id="64" source="FreeGaza" target="GazaUnderAttack" weight="0.17864882946014404" />
+      <edge id="65" source="FreeGaza" target="GreatReturnMarch" weight="0.2388957142829895" />
+      <edge id="66" source="FreeGaza" target="FreeAhedTamimi" weight="0.3606662154197693" />
+      <edge id="67" source="FreeGaza" target="freepalestine" weight="0.31696194410324097" />
+      <edge id="68" source="Zarif" target="IranTalks" weight="0.2753797173500061" />
+      <edge id="69" source="Zarif" target="IranDeal" weight="0.399122416973114" />
+      <edge id="70" source="Zarif" target="NuclearTalks" weight="0.2674587368965149" />
+      <edge id="71" source="Zarif" target="Kerry" weight="0.38744038343429565" />
+      <edge id="72" source="Zarif" target="IranTalksVienna" weight="0.3474811911582947" />
+      <edge id="73" source="IranTalks" target="IranDeal" weight="0.25195640325546265" />
+      <edge id="74" source="IranTalks" target="NuclearTalks" weight="0.04444015026092529" />
+      <edge id="75" source="IranTalks" target="IranTalksVienna" weight="0.1116974949836731" />
+      <edge id="76" source="IranTalks" target="JCPOA" weight="0.35990744829177856" />
+      <edge id="77" source="IranDeal" target="NuclearTalks" weight="0.22451698780059814" />
+      <edge id="78" source="IranDeal" target="IranTalksVienna" weight="0.3278275728225708" />
+      <edge id="79" source="IranDeal" target="nuclear" weight="0.33667123317718506" />
+      <edge id="80" source="IranDeal" target="JCPOA" weight="0.14426809549331665" />
+      <edge id="81" source="NuclearTalks" target="IranTalksVienna" weight="0.12449002265930176" />
+      <edge id="82" source="NuclearTalks" target="JCPOA" weight="0.32662051916122437" />
+      <edge id="83" source="Trump" target="trump" weight="0.0" />
+      <edge id="84" source="nature" target="science" weight="0.38373929262161255" />
+      <edge id="85" source="nature" target="Science" weight="0.38373929262161255" />
+      <edge id="86" source="nature" target="art" weight="0.3587331175804138" />
+      <edge id="87" source="DeleteIsrael" target="QudsDay" weight="0.374567449092865" />
+      <edge id="88" source="WednesdayWisdom" target="ThursdayThoughts" weight="0.2707561254501343" />
+      <edge id="89" source="WednesdayWisdom" target="ImpeachTrump" weight="0.27831655740737915" />
+      <edge id="90" source="WednesdayWisdom" target="NotMyPresident" weight="0.30026018619537354" />
+      <edge id="91" source="WednesdayWisdom" target="impeachtrump" weight="0.27831655740737915" />
+      <edge id="92" source="WednesdayWisdom" target="AntiTrump" weight="0.3885073661804199" />
+      <edge id="93" source="WednesdayWisdom" target="TuesdayThoughts" weight="0.2571372389793396" />
+      <edge id="94" source="WednesdayWisdom" target="MAGA" weight="0.25262463092803955" />
+      <edge id="95" source="WednesdayWisdom" target="SundayMorning" weight="0.3947535753250122" />
+      <edge id="96" source="WednesdayWisdom" target="MondayMotivation" weight="0.31161314249038696" />
+      <edge id="97" source="WednesdayWisdom" target="SaturdayMorning" weight="0.24355578422546387" />
+      <edge id="98" source="Israel" target="Zionist" weight="0.39791327714920044" />
+      <edge id="99" source="Israel" target="israel" weight="-1.1920928955078125e-07" />
+      <edge id="100" source="ThursdayThoughts" target="ImpeachTrump" weight="0.3658260107040405" />
+      <edge id="101" source="ThursdayThoughts" target="NotMyPresident" weight="0.37297117710113525" />
+      <edge id="102" source="ThursdayThoughts" target="impeachtrump" weight="0.3658260107040405" />
+      <edge id="103" source="ThursdayThoughts" target="AntiTrump" weight="0.3907087445259094" />
+      <edge id="104" source="ThursdayThoughts" target="TuesdayThoughts" weight="0.36065638065338135" />
+      <edge id="105" source="ThursdayThoughts" target="MAGA" weight="0.3848934769630432" />
+      <edge id="106" source="ThursdayThoughts" target="MondayMotivation" weight="0.3447551727294922" />
+      <edge id="107" source="ThursdayThoughts" target="SaturdayMorning" weight="0.3127785921096802" />
+      <edge id="108" source="SaveYemen" target="StopTheWarOnYemen" weight="0.26331138610839844" />
+      <edge id="109" source="SaveYemen" target="YemenWarCup" weight="0.31977492570877075" />
+      <edge id="110" source="SaveYemen" target="SaudiaArabia" weight="0.22192883491516113" />
+      <edge id="111" source="StopTheWarOnYemen" target="YemenWarCup" weight="0.3735761046409607" />
+      <edge id="112" source="Benalla" target="Macron" weight="0.3411511182785034" />
+      <edge id="113" source="science" target="Science" weight="0.0" />
+      <edge id="114" source="Yemen" target="Yemeni" weight="0.24470490217208862" />
+      <edge id="115" source="Yemen" target="yemen" weight="5.960464477539063e-08" />
+      <edge id="116" source="Venezuela" target="Maduro" weight="0.21323317289352417" />
+      <edge id="117" source="Saudi" target="UAE" weight="0.3826935887336731" />
+      <edge id="118" source="Saudi" target="SaudiArabia" weight="0.3176072835922241" />
+      <edge id="119" source="UAE" target="SaudiArabia" weight="0.3269846439361572" />
+      <edge id="120" source="blackhouse" target="Top" weight="0.3737983703613281" />
+      <edge id="121" source="Argentina" target="Macri" weight="0.3394119143486023" />
+      <edge id="122" source="Myanmar" target="RohingyaMuslims" weight="0.38903433084487915" />
+      <edge id="123" source="Myanmar" target="SaveRohingya" weight="0.3681015968322754" />
+      <edge id="124" source="Myanmar" target="Rohingya" weight="0.18315160274505615" />
+      <edge id="125" source="MyanmarGenocide" target="RohingyaMuslims" weight="0.05673325061798096" />
+      <edge id="126" source="MyanmarGenocide" target="SaveRohingya" weight="0.15230035781860352" />
+      <edge id="127" source="RohingyaMuslims" target="SaveRohingya" weight="0.12742877006530762" />
+      <edge id="128" source="RohingyaMuslims" target="Genocide" weight="0.3657243847846985" />
+      <edge id="129" source="RohingyaMuslims" target="Rohingya" weight="0.3436397314071655" />
+      <edge id="130" source="DonaldTrump" target="ImpeachTrump" weight="0.3913445472717285" />
+      <edge id="131" source="DonaldTrump" target="impeachtrump" weight="0.3913445472717285" />
+      <edge id="132" source="EEUU" target="Rusia" weight="0.3605078458786011" />
+      <edge id="133" source="ArabiaSaudita" target="DerechosHumanos" weight="0.38519418239593506" />
+      <edge id="134" source="Iraq" target="Afghanistan" weight="0.381980299949646" />
+      <edge id="135" source="FromMasjidAlHaram" target="Hajj" weight="0.2644096612930298" />
+      <edge id="136" source="FelizMartes" target="TheBachelor" weight="0.3937484622001648" />
+      <edge id="137" source="FelizMartes" target="FelizDomingo" weight="0.36639702320098877" />
+      <edge id="138" source="TheBachelor" target="NotMyPresident" weight="0.3878116011619568" />
+      <edge id="139" source="TheBachelor" target="LivePD" weight="0.3601049780845642" />
+      <edge id="140" source="TheBachelor" target="AntiTrump" weight="0.3180447220802307" />
+      <edge id="141" source="TheBachelor" target="SundayMorning" weight="0.36546504497528076" />
+      <edge id="142" source="Resistance" target="Resist" weight="1.1920928955078125e-07" />
+      <edge id="143" source="ImpeachTrump" target="NotMyPresident" weight="0.19266122579574585" />
+      <edge id="144" source="ImpeachTrump" target="impeachtrump" weight="0.0" />
+      <edge id="145" source="ImpeachTrump" target="AntiTrump" weight="0.16449981927871704" />
+      <edge id="146" source="ImpeachTrump" target="TuesdayThoughts" weight="0.37211084365844727" />
+      <edge id="147" source="ImpeachTrump" target="WhiteHouse" weight="0.3790496587753296" />
+      <edge id="148" source="ImpeachTrump" target="MAGA" weight="0.192158043384552" />
+      <edge id="149" source="ImpeachTrump" target="SundayMorning" weight="0.3366624712944031" />
+      <edge id="150" source="ImpeachTrump" target="MondayMotivation" weight="0.39501917362213135" />
+      <edge id="151" source="ImpeachTrump" target="SaturdayMorning" weight="0.3047218322753906" />
+      <edge id="152" source="NotMyPresident" target="impeachtrump" weight="0.19266122579574585" />
+      <edge id="153" source="NotMyPresident" target="AntiTrump" weight="0.2481507658958435" />
+      <edge id="154" source="NotMyPresident" target="MAGA" weight="0.23632526397705078" />
+      <edge id="155" source="NotMyPresident" target="SundayMorning" weight="0.3626783490180969" />
+      <edge id="156" source="NotMyPresident" target="SaturdayMorning" weight="0.2725064158439636" />
+      <edge id="157" source="impeachtrump" target="AntiTrump" weight="0.16449981927871704" />
+      <edge id="158" source="impeachtrump" target="TuesdayThoughts" weight="0.37211084365844727" />
+      <edge id="159" source="impeachtrump" target="WhiteHouse" weight="0.3790496587753296" />
+      <edge id="160" source="impeachtrump" target="MAGA" weight="0.192158043384552" />
+      <edge id="161" source="impeachtrump" target="SundayMorning" weight="0.3366624712944031" />
+      <edge id="162" source="impeachtrump" target="MondayMotivation" weight="0.39501917362213135" />
+      <edge id="163" source="impeachtrump" target="SaturdayMorning" weight="0.3047218322753906" />
+      <edge id="164" source="AntiTrump" target="WhiteHouse" weight="0.38927292823791504" />
+      <edge id="165" source="AntiTrump" target="MAGA" weight="0.2525312900543213" />
+      <edge id="166" source="AntiTrump" target="SundayMorning" weight="0.3517647981643677" />
+      <edge id="167" source="AntiTrump" target="SaturdayMorning" weight="0.3180169463157654" />
+      <edge id="168" source="realiran" target="Realiran" weight="-1.1920928955078125e-07" />
+      <edge id="169" source="realiran" target="Tehran" weight="0.3520240783691406" />
+      <edge id="170" source="realiran" target="RealIran" weight="-1.1920928955078125e-07" />
+      <edge id="171" source="realiran" target="Iranian" weight="0.3832476735115051" />
+      <edge id="172" source="realiran" target="Isfahan" weight="0.35466307401657104" />
+      <edge id="173" source="Realiran" target="Tehran" weight="0.3520240783691406" />
+      <edge id="174" source="Realiran" target="RealIran" weight="-1.1920928955078125e-07" />
+      <edge id="175" source="Realiran" target="Iranian" weight="0.3832476735115051" />
+      <edge id="176" source="Realiran" target="Isfahan" weight="0.35466307401657104" />
+      <edge id="177" source="Tehran" target="RealIran" weight="0.35202401876449585" />
+      <edge id="178" source="Tehran" target="Iranian" weight="0.26918643712997437" />
+      <edge id="179" source="Tehran" target="Isfahan" weight="0.35733866691589355" />
+      <edge id="180" source="GazaUnderAttack" target="GreatReturnMarch" weight="0.2845523953437805" />
+      <edge id="181" source="GazaUnderAttack" target="FreeAhedTamimi" weight="0.26532888412475586" />
+      <edge id="182" source="GazaUnderAttack" target="PalestinaLibre" weight="0.3896923065185547" />
+      <edge id="183" source="GazaUnderAttack" target="freepalestine" weight="0.3464653491973877" />
+      <edge id="184" source="GreatReturnMarch" target="Palestinian" weight="0.36247360706329346" />
+      <edge id="185" source="FreeAhedTamimi" target="MBCTheVoice" weight="0.387628972530365" />
+      <edge id="186" source="FreeAhedTamimi" target="FelizDomingo" weight="0.2110500931739807" />
+      <edge id="187" source="FreeAhedTamimi" target="PalestinaLibre" weight="0.22769403457641602" />
+      <edge id="188" source="India" target="China" weight="0.38318735361099243" />
+      <edge id="189" source="Terrorism" target="terrorism" weight="0.0" />
+      <edge id="190" source="Shiraz" target="Isfahan" weight="0.06634914875030518" />
+      <edge id="191" source="RealIran" target="Iranian" weight="0.3832476735115051" />
+      <edge id="192" source="RealIran" target="Isfahan" weight="0.35466307401657104" />
+      <edge id="193" source="MBCTheVoice" target="FelizDomingo" weight="0.3738977313041687" />
+      <edge id="194" source="Iranian" target="IRAN" weight="0.26286226511001587" />
+      <edge id="195" source="SaveRohingya" target="Rohingya" weight="0.28867048025131226" />
+      <edge id="196" source="TuesdayThoughts" target="MondayMotivation" weight="0.39415913820266724" />
+      <edge id="197" source="TuesdayThoughts" target="SaturdayMorning" weight="0.3236542344093323" />
+      <edge id="198" source="PalestineMustBeFree" target="LetUsAllUnite" weight="0.008715629577636719" />
+      <edge id="199" source="IRAN" target="JCPOA" weight="0.3723575472831726" />
+      <edge id="200" source="Iuvm" target="pashto" weight="0.12816423177719116" />
+      <edge id="201" source="Iuvm" target="IuvmPress" weight="0.19236046075820923" />
+      <edge id="202" source="Iuvm" target="Article" weight="0.3890042304992676" />
+      <edge id="203" source="Iuvm" target="Iuvmorg" weight="0.0834764838218689" />
+      <edge id="204" source="Iuvm" target="IuvmNews" weight="0.09277689456939697" />
+      <edge id="205" source="Iuvm" target="JerusalemIsTheEternalCapitalOfPalestine" weight="0.1278167963027954" />
+      <edge id="206" source="press" target="Press" weight="1.1920928955078125e-07" />
+      <edge id="207" source="pashto" target="Iuvmorg" weight="0.23605114221572876" />
+      <edge id="208" source="pashto" target="IuvmNews" weight="0.2073972225189209" />
+      <edge id="209" source="pashto" target="JerusalemIsTheEternalCapitalOfPalestine" weight="0.2752137780189514" />
+      <edge id="210" source="IuvmPress" target="Article" weight="0.31758230924606323" />
+      <edge id="211" source="IuvmPress" target="Iuvmorg" weight="0.30364108085632324" />
+      <edge id="212" source="IuvmPress" target="IuvmNews" weight="0.3746006488800049" />
+      <edge id="213" source="IuvmPress" target="JerusalemIsTheEternalCapitalOfPalestine" weight="0.2907642126083374" />
+      <edge id="214" source="Iuvmorg" target="IuvmNews" weight="0.037522077560424805" />
+      <edge id="215" source="Iuvmorg" target="JerusalemIsTheEternalCapitalOfPalestine" weight="0.06054115295410156" />
+      <edge id="216" source="IuvmNews" target="JerusalemIsTheEternalCapitalOfPalestine" weight="0.11643892526626587" />
+      <edge id="217" source="Muslim" target="Muslims" weight="-1.1920928955078125e-07" />
+      <edge id="218" source="WorldCup" target="MondayMotivation" weight="0.3589738607406616" />
+      <edge id="219" source="China" target="JCPOA" weight="0.3933935761451721" />
+      <edge id="220" source="Yemeni" target="yemen" weight="0.24470490217208862" />
+      <edge id="221" source="WhiteHouse" target="MAGA" weight="0.34318971633911133" />
+      <edge id="222" source="MAGA" target="SundayMorning" weight="0.37028372287750244" />
+      <edge id="223" source="MAGA" target="MondayMotivation" weight="0.3805488348007202" />
+      <edge id="224" source="MAGA" target="SaturdayMorning" weight="0.27361971139907837" />
+      <edge id="225" source="DerechosHumanos" target="PalestinaLibre" weight="0.3614147901535034" />
+      <edge id="226" source="nuclear" target="JCPOA" weight="0.36803096532821655" />
+      <edge id="227" source="Palestina" target="PalestinaLibre" weight="0.18074291944503784" />
+      <edge id="228" source="Siria" target="Rusia" weight="0.3156970143318176" />
+      <edge id="229" source="JordanNews" target="jordantimes" weight="0.012707650661468506" />
+      <edge id="230" source="FelizDomingo" target="PalestinaLibre" weight="0.38790613412857056" />
+      <edge id="231" source="SundayMorning" target="MondayMotivation" weight="0.3420338034629822" />
+      <edge id="232" source="SundayMorning" target="SaturdayMorning" weight="0.3055577278137207" />
+      <edge id="233" source="Zionist" target="israel" weight="0.39791327714920044" />
+      <edge id="234" source="PalestinaLibre" target="QudsCapitalOfPalestine" weight="0.3526070713996887" />
+      <edge id="235" source="MondayMotivation" target="SaturdayMorning" weight="0.3096245527267456" />
+    </edges>
+  </graph>
+</gexf>
