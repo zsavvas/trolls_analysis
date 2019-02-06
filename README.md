@@ -28,10 +28,10 @@ sudo pip install https://github.com/matplotlib/basemap/archive/master.zip
 ```
 
 ##### Data
-Our data is publicly available on <URL>. 
+Our data is publicly available at https://zenodo.org/record/2558433. 
 The dataset consists of the data released by Twitter on October 2018 for Russian and Iranian state-sponsored troll accounts, which is available at https://about.twitter.com/en_us/values/elections-integrity.html#data as well as intermediate data that we generated after processing the raw data.
 For instance, we include trained Word2Vec and LDA models, the output of our influence estimation experiments via Hawkes Processes, and a lot of other data necessary to reproduce the results in the paper.
-To use the provided data simply download the compressed file from <URL> and make sure that the uncompressed `data` folder is in the same directory as the IPython Notebook.
+To use the provided data simply download the compressed file from https://zenodo.org/record/2558433 and make sure that the uncompressed `data` folder is in the same directory as the IPython Notebook.
 
 
 ## Reproducing the results
